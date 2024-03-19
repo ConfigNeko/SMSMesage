@@ -1,3908 +1,4559 @@
 [
   {
-    "file_name": "90s-01.png",
+    "fileName": "90s-01.png",
     "folder": "90s",
     "path": "stickers/90s/90s-01.png",
-    "folderName": "90s"
+    "folderName": "90s",
+    "size": 403
   },
   {
-    "file_name": "90s-02.png",
+    "fileName": "90s-02.png",
     "folder": "90s",
     "path": "stickers/90s/90s-02.png",
-    "folderName": "90s"
+    "folderName": "90s",
+    "size": 610
   },
   {
-    "file_name": "90s-03.png",
+    "fileName": "90s-03.png",
     "folder": "90s",
     "path": "stickers/90s/90s-03.png",
-    "folderName": "90s"
+    "folderName": "90s",
+    "size": 531
   },
   {
-    "file_name": "90s-04.png",
+    "fileName": "90s-04.png",
     "folder": "90s",
     "path": "stickers/90s/90s-04.png",
-    "folderName": "90s"
+    "folderName": "90s",
+    "size": 509
   },
   {
-    "file_name": "90s-05.png",
+    "fileName": "90s-05.png",
     "folder": "90s",
     "path": "stickers/90s/90s-05.png",
-    "folderName": "90s"
+    "folderName": "90s",
+    "size": 419
   },
   {
-    "file_name": "90s-06.png",
+    "fileName": "90s-06.png",
     "folder": "90s",
     "path": "stickers/90s/90s-06.png",
-    "folderName": "90s"
+    "folderName": "90s",
+    "size": 700
   },
   {
-    "file_name": "90s-07.png",
+    "fileName": "90s-07.png",
     "folder": "90s",
     "path": "stickers/90s/90s-07.png",
-    "folderName": "90s"
+    "folderName": "90s",
+    "size": 315
   },
   {
-    "file_name": "90s-08.png",
+    "fileName": "90s-08.png",
     "folder": "90s",
     "path": "stickers/90s/90s-08.png",
-    "folderName": "90s"
+    "folderName": "90s",
+    "size": 366
   },
   {
-    "file_name": "90s-09.png",
+    "fileName": "90s-09.png",
     "folder": "90s",
     "path": "stickers/90s/90s-09.png",
-    "folderName": "90s"
+    "folderName": "90s",
+    "size": 640
   },
   {
-    "file_name": "90s-10.png",
+    "fileName": "90s-10.png",
     "folder": "90s",
     "path": "stickers/90s/90s-10.png",
-    "folderName": "90s"
+    "folderName": "90s",
+    "size": 577
   },
   {
-    "file_name": "90s-11.png",
+    "fileName": "90s-11.png",
     "folder": "90s",
     "path": "stickers/90s/90s-11.png",
-    "folderName": "90s"
+    "folderName": "90s",
+    "size": 357
   },
   {
-    "file_name": "90s-12.png",
+    "fileName": "90s-12.png",
     "folder": "90s",
     "path": "stickers/90s/90s-12.png",
-    "folderName": "90s"
+    "folderName": "90s",
+    "size": 309
   },
   {
-    "file_name": "LGBT-01.png",
+    "fileName": "LGBT-01.png",
     "folder": "LGBT",
     "path": "stickers/LGBT/LGBT-01.png",
-    "folderName": "LGBT"
+    "folderName": "LGBT",
+    "size": 528
   },
   {
-    "file_name": "LGBT-02.png",
+    "fileName": "LGBT-02.png",
     "folder": "LGBT",
     "path": "stickers/LGBT/LGBT-02.png",
-    "folderName": "LGBT"
+    "folderName": "LGBT",
+    "size": 576
   },
   {
-    "file_name": "LGBT-03.png",
+    "fileName": "LGBT-03.png",
     "folder": "LGBT",
     "path": "stickers/LGBT/LGBT-03.png",
-    "folderName": "LGBT"
+    "folderName": "LGBT",
+    "size": 611
   },
   {
-    "file_name": "LGBT-04.png",
+    "fileName": "LGBT-04.png",
     "folder": "LGBT",
     "path": "stickers/LGBT/LGBT-04.png",
-    "folderName": "LGBT"
+    "folderName": "LGBT",
+    "size": 547
   },
   {
-    "file_name": "LGBT-05.png",
+    "fileName": "LGBT-05.png",
     "folder": "LGBT",
     "path": "stickers/LGBT/LGBT-05.png",
-    "folderName": "LGBT"
+    "folderName": "LGBT",
+    "size": 642
   },
   {
-    "file_name": "LGBT-06.png",
+    "fileName": "LGBT-06.png",
     "folder": "LGBT",
     "path": "stickers/LGBT/LGBT-06.png",
-    "folderName": "LGBT"
+    "folderName": "LGBT",
+    "size": 660
   },
   {
-    "file_name": "LGBT-07.png",
+    "fileName": "LGBT-07.png",
     "folder": "LGBT",
     "path": "stickers/LGBT/LGBT-07.png",
-    "folderName": "LGBT"
+    "folderName": "LGBT",
+    "size": 667
   },
   {
-    "file_name": "LGBT-08.png",
+    "fileName": "LGBT-08.png",
     "folder": "LGBT",
     "path": "stickers/LGBT/LGBT-08.png",
-    "folderName": "LGBT"
+    "folderName": "LGBT",
+    "size": 383
   },
   {
-    "file_name": "LGBT-09.png",
+    "fileName": "LGBT-09.png",
     "folder": "LGBT",
     "path": "stickers/LGBT/LGBT-09.png",
-    "folderName": "LGBT"
+    "folderName": "LGBT",
+    "size": 620
   },
   {
-    "file_name": "LGBT-10.png",
+    "fileName": "LGBT-10.png",
     "folder": "LGBT",
     "path": "stickers/LGBT/LGBT-10.png",
-    "folderName": "LGBT"
+    "folderName": "LGBT",
+    "size": 519
   },
   {
-    "file_name": "LGBT-11.png",
+    "fileName": "LGBT-11.png",
     "folder": "LGBT",
     "path": "stickers/LGBT/LGBT-11.png",
-    "folderName": "LGBT"
+    "folderName": "LGBT",
+    "size": 446
   },
   {
-    "file_name": "LGBT-12.png",
+    "fileName": "LGBT-12.png",
     "folder": "LGBT",
     "path": "stickers/LGBT/LGBT-12.png",
-    "folderName": "LGBT"
+    "folderName": "LGBT",
+    "size": 514
   },
   {
-    "file_name": "LGBT-13.png",
+    "fileName": "LGBT-13.png",
     "folder": "LGBT",
     "path": "stickers/LGBT/LGBT-13.png",
-    "folderName": "LGBT"
+    "folderName": "LGBT",
+    "size": 517
   },
   {
-    "file_name": "LGBT-14.png",
+    "fileName": "LGBT-14.png",
     "folder": "LGBT",
     "path": "stickers/LGBT/LGBT-14.png",
-    "folderName": "LGBT"
+    "folderName": "LGBT",
+    "size": 586
   },
   {
-    "file_name": "LGBT-15.png",
+    "fileName": "LGBT-15.png",
     "folder": "LGBT",
     "path": "stickers/LGBT/LGBT-15.png",
-    "folderName": "LGBT"
+    "folderName": "LGBT",
+    "size": 660
   },
   {
-    "file_name": "LGBT-16.png",
+    "fileName": "LGBT-16.png",
     "folder": "LGBT",
     "path": "stickers/LGBT/LGBT-16.png",
-    "folderName": "LGBT"
+    "folderName": "LGBT",
+    "size": 355
   },
   {
-    "file_name": "LGBT-17.png",
+    "fileName": "LGBT-17.png",
     "folder": "LGBT",
     "path": "stickers/LGBT/LGBT-17.png",
-    "folderName": "LGBT"
+    "folderName": "LGBT",
+    "size": 664
   },
   {
-    "file_name": "LGBT-18.png",
+    "fileName": "LGBT-18.png",
     "folder": "LGBT",
     "path": "stickers/LGBT/LGBT-18.png",
-    "folderName": "LGBT"
+    "folderName": "LGBT",
+    "size": 509
   },
   {
-    "file_name": "LGBT-19.png",
+    "fileName": "LGBT-19.png",
     "folder": "LGBT",
     "path": "stickers/LGBT/LGBT-19.png",
-    "folderName": "LGBT"
+    "folderName": "LGBT",
+    "size": 577
   },
   {
-    "file_name": "LGBT-20.png",
+    "fileName": "LGBT-20.png",
     "folder": "LGBT",
     "path": "stickers/LGBT/LGBT-20.png",
-    "folderName": "LGBT"
+    "folderName": "LGBT",
+    "size": 405
   },
   {
-    "file_name": "s1.png",
+    "fileName": "s1.png",
     "folder": "Tropical",
     "path": "stickers/Tropical/s1.png",
-    "folderName": "Tropical"
+    "folderName": "Tropical",
+    "size": 589
   },
   {
-    "file_name": "s10.png",
+    "fileName": "s10.png",
     "folder": "Tropical",
     "path": "stickers/Tropical/s10.png",
-    "folderName": "Tropical"
+    "folderName": "Tropical",
+    "size": 467
   },
   {
-    "file_name": "s11.png",
+    "fileName": "s11.png",
     "folder": "Tropical",
     "path": "stickers/Tropical/s11.png",
-    "folderName": "Tropical"
+    "folderName": "Tropical",
+    "size": 616
   },
   {
-    "file_name": "s12.png",
+    "fileName": "s12.png",
     "folder": "Tropical",
     "path": "stickers/Tropical/s12.png",
-    "folderName": "Tropical"
+    "folderName": "Tropical",
+    "size": 553
   },
   {
-    "file_name": "s13.png",
+    "fileName": "s13.png",
     "folder": "Tropical",
     "path": "stickers/Tropical/s13.png",
-    "folderName": "Tropical"
+    "folderName": "Tropical",
+    "size": 539
   },
   {
-    "file_name": "s14.png",
+    "fileName": "s14.png",
     "folder": "Tropical",
     "path": "stickers/Tropical/s14.png",
-    "folderName": "Tropical"
+    "folderName": "Tropical",
+    "size": 683
   },
   {
-    "file_name": "s15.png",
+    "fileName": "s15.png",
     "folder": "Tropical",
     "path": "stickers/Tropical/s15.png",
-    "folderName": "Tropical"
+    "folderName": "Tropical",
+    "size": 458
   },
   {
-    "file_name": "s16.png",
+    "fileName": "s16.png",
     "folder": "Tropical",
     "path": "stickers/Tropical/s16.png",
-    "folderName": "Tropical"
+    "folderName": "Tropical",
+    "size": 568
   },
   {
-    "file_name": "s17.png",
+    "fileName": "s17.png",
     "folder": "Tropical",
     "path": "stickers/Tropical/s17.png",
-    "folderName": "Tropical"
+    "folderName": "Tropical",
+    "size": 452
   },
   {
-    "file_name": "s18.png",
+    "fileName": "s18.png",
     "folder": "Tropical",
     "path": "stickers/Tropical/s18.png",
-    "folderName": "Tropical"
+    "folderName": "Tropical",
+    "size": 604
   },
   {
-    "file_name": "s19.png",
+    "fileName": "s19.png",
     "folder": "Tropical",
     "path": "stickers/Tropical/s19.png",
-    "folderName": "Tropical"
+    "folderName": "Tropical",
+    "size": 429
   },
   {
-    "file_name": "s2.png",
+    "fileName": "s2.png",
     "folder": "Tropical",
     "path": "stickers/Tropical/s2.png",
-    "folderName": "Tropical"
+    "folderName": "Tropical",
+    "size": 595
   },
   {
-    "file_name": "s20.png",
+    "fileName": "s20.png",
     "folder": "Tropical",
     "path": "stickers/Tropical/s20.png",
-    "folderName": "Tropical"
+    "folderName": "Tropical",
+    "size": 699
   },
   {
-    "file_name": "s21.png",
+    "fileName": "s21.png",
     "folder": "Tropical",
     "path": "stickers/Tropical/s21.png",
-    "folderName": "Tropical"
+    "folderName": "Tropical",
+    "size": 655
   },
   {
-    "file_name": "s22.png",
+    "fileName": "s22.png",
     "folder": "Tropical",
     "path": "stickers/Tropical/s22.png",
-    "folderName": "Tropical"
+    "folderName": "Tropical",
+    "size": 500
   },
   {
-    "file_name": "s23.png",
+    "fileName": "s23.png",
     "folder": "Tropical",
     "path": "stickers/Tropical/s23.png",
-    "folderName": "Tropical"
+    "folderName": "Tropical",
+    "size": 461
   },
   {
-    "file_name": "s24.png",
+    "fileName": "s24.png",
     "folder": "Tropical",
     "path": "stickers/Tropical/s24.png",
-    "folderName": "Tropical"
+    "folderName": "Tropical",
+    "size": 324
   },
   {
-    "file_name": "s25.png",
+    "fileName": "s25.png",
     "folder": "Tropical",
     "path": "stickers/Tropical/s25.png",
-    "folderName": "Tropical"
+    "folderName": "Tropical",
+    "size": 301
   },
   {
-    "file_name": "s26.png",
+    "fileName": "s26.png",
     "folder": "Tropical",
     "path": "stickers/Tropical/s26.png",
-    "folderName": "Tropical"
+    "folderName": "Tropical",
+    "size": 423
   },
   {
-    "file_name": "s27.png",
+    "fileName": "s27.png",
     "folder": "Tropical",
     "path": "stickers/Tropical/s27.png",
-    "folderName": "Tropical"
+    "folderName": "Tropical",
+    "size": 605
   },
   {
-    "file_name": "s28.png",
+    "fileName": "s28.png",
     "folder": "Tropical",
     "path": "stickers/Tropical/s28.png",
-    "folderName": "Tropical"
+    "folderName": "Tropical",
+    "size": 352
   },
   {
-    "file_name": "s29.png",
+    "fileName": "s29.png",
     "folder": "Tropical",
     "path": "stickers/Tropical/s29.png",
-    "folderName": "Tropical"
+    "folderName": "Tropical",
+    "size": 603
   },
   {
-    "file_name": "s3.png",
+    "fileName": "s3.png",
     "folder": "Tropical",
     "path": "stickers/Tropical/s3.png",
-    "folderName": "Tropical"
+    "folderName": "Tropical",
+    "size": 338
   },
   {
-    "file_name": "s30.png",
+    "fileName": "s30.png",
     "folder": "Tropical",
     "path": "stickers/Tropical/s30.png",
-    "folderName": "Tropical"
+    "folderName": "Tropical",
+    "size": 484
   },
   {
-    "file_name": "s4.png",
+    "fileName": "s4.png",
     "folder": "Tropical",
     "path": "stickers/Tropical/s4.png",
-    "folderName": "Tropical"
+    "folderName": "Tropical",
+    "size": 696
   },
   {
-    "file_name": "s5.png",
+    "fileName": "s5.png",
     "folder": "Tropical",
     "path": "stickers/Tropical/s5.png",
-    "folderName": "Tropical"
+    "folderName": "Tropical",
+    "size": 395
   },
   {
-    "file_name": "s6.png",
+    "fileName": "s6.png",
     "folder": "Tropical",
     "path": "stickers/Tropical/s6.png",
-    "folderName": "Tropical"
+    "folderName": "Tropical",
+    "size": 320
   },
   {
-    "file_name": "s7.png",
+    "fileName": "s7.png",
     "folder": "Tropical",
     "path": "stickers/Tropical/s7.png",
-    "folderName": "Tropical"
+    "folderName": "Tropical",
+    "size": 688
   },
   {
-    "file_name": "s8.png",
+    "fileName": "s8.png",
     "folder": "Tropical",
     "path": "stickers/Tropical/s8.png",
-    "folderName": "Tropical"
+    "folderName": "Tropical",
+    "size": 515
   },
   {
-    "file_name": "s9.png",
+    "fileName": "s9.png",
     "folder": "Tropical",
     "path": "stickers/Tropical/s9.png",
-    "folderName": "Tropical"
+    "folderName": "Tropical",
+    "size": 460
   },
   {
-    "file_name": "1.png",
+    "fileName": "1.png",
     "folder": "american_food",
     "path": "stickers/american_food/1.png",
-    "folderName": "American Food"
+    "folderName": "American Food",
+    "size": 481
   },
   {
-    "file_name": "10.png",
+    "fileName": "10.png",
     "folder": "american_food",
     "path": "stickers/american_food/10.png",
-    "folderName": "American Food"
+    "folderName": "American Food",
+    "size": 446
   },
   {
-    "file_name": "11.png",
+    "fileName": "11.png",
     "folder": "american_food",
     "path": "stickers/american_food/11.png",
-    "folderName": "American Food"
+    "folderName": "American Food",
+    "size": 304
   },
   {
-    "file_name": "12.png",
+    "fileName": "12.png",
     "folder": "american_food",
     "path": "stickers/american_food/12.png",
-    "folderName": "American Food"
+    "folderName": "American Food",
+    "size": 544
   },
   {
-    "file_name": "13.png",
+    "fileName": "13.png",
     "folder": "american_food",
     "path": "stickers/american_food/13.png",
-    "folderName": "American Food"
+    "folderName": "American Food",
+    "size": 429
   },
   {
-    "file_name": "14.png",
+    "fileName": "14.png",
     "folder": "american_food",
     "path": "stickers/american_food/14.png",
-    "folderName": "American Food"
+    "folderName": "American Food",
+    "size": 377
   },
   {
-    "file_name": "15.png",
+    "fileName": "15.png",
     "folder": "american_food",
     "path": "stickers/american_food/15.png",
-    "folderName": "American Food"
+    "folderName": "American Food",
+    "size": 397
   },
   {
-    "file_name": "16.png",
+    "fileName": "16.png",
     "folder": "american_food",
     "path": "stickers/american_food/16.png",
-    "folderName": "American Food"
+    "folderName": "American Food",
+    "size": 351
   },
   {
-    "file_name": "17.png",
+    "fileName": "17.png",
     "folder": "american_food",
     "path": "stickers/american_food/17.png",
-    "folderName": "American Food"
+    "folderName": "American Food",
+    "size": 678
   },
   {
-    "file_name": "18.png",
+    "fileName": "18.png",
     "folder": "american_food",
     "path": "stickers/american_food/18.png",
-    "folderName": "American Food"
+    "folderName": "American Food",
+    "size": 497
   },
   {
-    "file_name": "19.png",
+    "fileName": "19.png",
     "folder": "american_food",
     "path": "stickers/american_food/19.png",
-    "folderName": "American Food"
+    "folderName": "American Food",
+    "size": 530
   },
   {
-    "file_name": "2.png",
+    "fileName": "2.png",
     "folder": "american_food",
     "path": "stickers/american_food/2.png",
-    "folderName": "American Food"
+    "folderName": "American Food",
+    "size": 441
   },
   {
-    "file_name": "20.png",
+    "fileName": "20.png",
     "folder": "american_food",
     "path": "stickers/american_food/20.png",
-    "folderName": "American Food"
+    "folderName": "American Food",
+    "size": 478
   },
   {
-    "file_name": "3.png",
+    "fileName": "3.png",
     "folder": "american_food",
     "path": "stickers/american_food/3.png",
-    "folderName": "American Food"
+    "folderName": "American Food",
+    "size": 435
   },
   {
-    "file_name": "4.png",
+    "fileName": "4.png",
     "folder": "american_food",
     "path": "stickers/american_food/4.png",
-    "folderName": "American Food"
+    "folderName": "American Food",
+    "size": 576
   },
   {
-    "file_name": "5.png",
+    "fileName": "5.png",
     "folder": "american_food",
     "path": "stickers/american_food/5.png",
-    "folderName": "American Food"
+    "folderName": "American Food",
+    "size": 541
   },
   {
-    "file_name": "6.png",
+    "fileName": "6.png",
     "folder": "american_food",
     "path": "stickers/american_food/6.png",
-    "folderName": "American Food"
+    "folderName": "American Food",
+    "size": 630
   },
   {
-    "file_name": "7.png",
+    "fileName": "7.png",
     "folder": "american_food",
     "path": "stickers/american_food/7.png",
-    "folderName": "American Food"
+    "folderName": "American Food",
+    "size": 479
   },
   {
-    "file_name": "8.png",
+    "fileName": "8.png",
     "folder": "american_food",
     "path": "stickers/american_food/8.png",
-    "folderName": "American Food"
+    "folderName": "American Food",
+    "size": 509
   },
   {
-    "file_name": "9.png",
+    "fileName": "9.png",
     "folder": "american_food",
     "path": "stickers/american_food/9.png",
-    "folderName": "American Food"
+    "folderName": "American Food",
+    "size": 647
   },
   {
-    "file_name": "animal-01.png",
+    "fileName": "animal-01.png",
     "folder": "animal",
     "path": "stickers/animal/animal-01.png",
-    "folderName": "Animal"
+    "folderName": "Animal",
+    "size": 694
   },
   {
-    "file_name": "animal-02.png",
+    "fileName": "animal-02.png",
     "folder": "animal",
     "path": "stickers/animal/animal-02.png",
-    "folderName": "Animal"
+    "folderName": "Animal",
+    "size": 625
   },
   {
-    "file_name": "animal-03.png",
+    "fileName": "animal-03.png",
     "folder": "animal",
     "path": "stickers/animal/animal-03.png",
-    "folderName": "Animal"
+    "folderName": "Animal",
+    "size": 358
   },
   {
-    "file_name": "animal-04.png",
+    "fileName": "animal-04.png",
     "folder": "animal",
     "path": "stickers/animal/animal-04.png",
-    "folderName": "Animal"
+    "folderName": "Animal",
+    "size": 572
   },
   {
-    "file_name": "animal-05.png",
+    "fileName": "animal-05.png",
     "folder": "animal",
     "path": "stickers/animal/animal-05.png",
-    "folderName": "Animal"
+    "folderName": "Animal",
+    "size": 403
   },
   {
-    "file_name": "animal-06.png",
+    "fileName": "animal-06.png",
     "folder": "animal",
     "path": "stickers/animal/animal-06.png",
-    "folderName": "Animal"
+    "folderName": "Animal",
+    "size": 364
   },
   {
-    "file_name": "animal-07.png",
+    "fileName": "animal-07.png",
     "folder": "animal",
     "path": "stickers/animal/animal-07.png",
-    "folderName": "Animal"
+    "folderName": "Animal",
+    "size": 592
   },
   {
-    "file_name": "animal-08.png",
+    "fileName": "animal-08.png",
     "folder": "animal",
     "path": "stickers/animal/animal-08.png",
-    "folderName": "Animal"
+    "folderName": "Animal",
+    "size": 383
   },
   {
-    "file_name": "animal-09.png",
+    "fileName": "animal-09.png",
     "folder": "animal",
     "path": "stickers/animal/animal-09.png",
-    "folderName": "Animal"
+    "folderName": "Animal",
+    "size": 528
   },
   {
-    "file_name": "animal-10.png",
+    "fileName": "animal-10.png",
     "folder": "animal",
     "path": "stickers/animal/animal-10.png",
-    "folderName": "Animal"
+    "folderName": "Animal",
+    "size": 582
   },
   {
-    "file_name": "animal-11.png",
+    "fileName": "animal-11.png",
     "folder": "animal",
     "path": "stickers/animal/animal-11.png",
-    "folderName": "Animal"
+    "folderName": "Animal",
+    "size": 603
   },
   {
-    "file_name": "animal-12.png",
+    "fileName": "animal-12.png",
     "folder": "animal",
     "path": "stickers/animal/animal-12.png",
-    "folderName": "Animal"
+    "folderName": "Animal",
+    "size": 421
   },
   {
-    "file_name": "animal-13.png",
+    "fileName": "animal-13.png",
     "folder": "animal",
     "path": "stickers/animal/animal-13.png",
-    "folderName": "Animal"
+    "folderName": "Animal",
+    "size": 502
   },
   {
-    "file_name": "animal-14.png",
+    "fileName": "animal-14.png",
     "folder": "animal",
     "path": "stickers/animal/animal-14.png",
-    "folderName": "Animal"
+    "folderName": "Animal",
+    "size": 310
   },
   {
-    "file_name": "animal-15.png",
+    "fileName": "animal-15.png",
     "folder": "animal",
     "path": "stickers/animal/animal-15.png",
-    "folderName": "Animal"
+    "folderName": "Animal",
+    "size": 492
   },
   {
-    "file_name": "animal-16.png",
+    "fileName": "animal-16.png",
     "folder": "animal",
     "path": "stickers/animal/animal-16.png",
-    "folderName": "Animal"
+    "folderName": "Animal",
+    "size": 498
   },
   {
-    "file_name": "animal-17.png",
+    "fileName": "animal-17.png",
     "folder": "animal",
     "path": "stickers/animal/animal-17.png",
-    "folderName": "Animal"
+    "folderName": "Animal",
+    "size": 613
   },
   {
-    "file_name": "animal-18.png",
+    "fileName": "animal-18.png",
     "folder": "animal",
     "path": "stickers/animal/animal-18.png",
-    "folderName": "Animal"
+    "folderName": "Animal",
+    "size": 385
   },
   {
-    "file_name": "animal-19.png",
+    "fileName": "animal-19.png",
     "folder": "animal",
     "path": "stickers/animal/animal-19.png",
-    "folderName": "Animal"
+    "folderName": "Animal",
+    "size": 420
   },
   {
-    "file_name": "animal-20.png",
+    "fileName": "animal-20.png",
     "folder": "animal",
     "path": "stickers/animal/animal-20.png",
-    "folderName": "Animal"
+    "folderName": "Animal",
+    "size": 440
   },
   {
-    "file_name": "animal-21.png",
+    "fileName": "animal-21.png",
     "folder": "animal",
     "path": "stickers/animal/animal-21.png",
-    "folderName": "Animal"
+    "folderName": "Animal",
+    "size": 486
   },
   {
-    "file_name": "animal face-01.png",
+    "fileName": "animal face-01.png",
     "folder": "animal_face",
     "path": "stickers/animal_face/animal face-01.png",
-    "folderName": "Animal Face"
+    "folderName": "Animal Face",
+    "size": 471
   },
   {
-    "file_name": "animal face-02.png",
+    "fileName": "animal face-02.png",
     "folder": "animal_face",
     "path": "stickers/animal_face/animal face-02.png",
-    "folderName": "Animal Face"
+    "folderName": "Animal Face",
+    "size": 374
   },
   {
-    "file_name": "animal face-03.png",
+    "fileName": "animal face-03.png",
     "folder": "animal_face",
     "path": "stickers/animal_face/animal face-03.png",
-    "folderName": "Animal Face"
+    "folderName": "Animal Face",
+    "size": 389
   },
   {
-    "file_name": "animal face-04.png",
+    "fileName": "animal face-04.png",
     "folder": "animal_face",
     "path": "stickers/animal_face/animal face-04.png",
-    "folderName": "Animal Face"
+    "folderName": "Animal Face",
+    "size": 324
   },
   {
-    "file_name": "animal face-05.png",
+    "fileName": "animal face-05.png",
     "folder": "animal_face",
     "path": "stickers/animal_face/animal face-05.png",
-    "folderName": "Animal Face"
+    "folderName": "Animal Face",
+    "size": 360
   },
   {
-    "file_name": "animal face-06.png",
+    "fileName": "animal face-06.png",
     "folder": "animal_face",
     "path": "stickers/animal_face/animal face-06.png",
-    "folderName": "Animal Face"
+    "folderName": "Animal Face",
+    "size": 473
   },
   {
-    "file_name": "animal face-07.png",
+    "fileName": "animal face-07.png",
     "folder": "animal_face",
     "path": "stickers/animal_face/animal face-07.png",
-    "folderName": "Animal Face"
+    "folderName": "Animal Face",
+    "size": 611
   },
   {
-    "file_name": "animal face-08.png",
+    "fileName": "animal face-08.png",
     "folder": "animal_face",
     "path": "stickers/animal_face/animal face-08.png",
-    "folderName": "Animal Face"
+    "folderName": "Animal Face",
+    "size": 527
   },
   {
-    "file_name": "animal face-09.png",
+    "fileName": "animal face-09.png",
     "folder": "animal_face",
     "path": "stickers/animal_face/animal face-09.png",
-    "folderName": "Animal Face"
+    "folderName": "Animal Face",
+    "size": 363
   },
   {
-    "file_name": "animal face-10.png",
+    "fileName": "animal face-10.png",
     "folder": "animal_face",
     "path": "stickers/animal_face/animal face-10.png",
-    "folderName": "Animal Face"
+    "folderName": "Animal Face",
+    "size": 468
   },
   {
-    "file_name": "animal face-11.png",
+    "fileName": "animal face-11.png",
     "folder": "animal_face",
     "path": "stickers/animal_face/animal face-11.png",
-    "folderName": "Animal Face"
+    "folderName": "Animal Face",
+    "size": 554
   },
   {
-    "file_name": "animal face-12.png",
+    "fileName": "animal face-12.png",
     "folder": "animal_face",
     "path": "stickers/animal_face/animal face-12.png",
-    "folderName": "Animal Face"
+    "folderName": "Animal Face",
+    "size": 435
   },
   {
-    "file_name": "animal face-13.png",
+    "fileName": "animal face-13.png",
     "folder": "animal_face",
     "path": "stickers/animal_face/animal face-13.png",
-    "folderName": "Animal Face"
+    "folderName": "Animal Face",
+    "size": 538
   },
   {
-    "file_name": "animal face-14.png",
+    "fileName": "animal face-14.png",
     "folder": "animal_face",
     "path": "stickers/animal_face/animal face-14.png",
-    "folderName": "Animal Face"
+    "folderName": "Animal Face",
+    "size": 655
   },
   {
-    "file_name": "animal face-15.png",
+    "fileName": "animal face-15.png",
     "folder": "animal_face",
     "path": "stickers/animal_face/animal face-15.png",
-    "folderName": "Animal Face"
+    "folderName": "Animal Face",
+    "size": 658
   },
   {
-    "file_name": "animal face-16.png",
+    "fileName": "animal face-16.png",
     "folder": "animal_face",
     "path": "stickers/animal_face/animal face-16.png",
-    "folderName": "Animal Face"
+    "folderName": "Animal Face",
+    "size": 573
   },
   {
-    "file_name": "animal face-17.png",
+    "fileName": "animal face-17.png",
     "folder": "animal_face",
     "path": "stickers/animal_face/animal face-17.png",
-    "folderName": "Animal Face"
+    "folderName": "Animal Face",
+    "size": 601
   },
   {
-    "file_name": "animal face-18.png",
+    "fileName": "animal face-18.png",
     "folder": "animal_face",
     "path": "stickers/animal_face/animal face-18.png",
-    "folderName": "Animal Face"
+    "folderName": "Animal Face",
+    "size": 439
   },
   {
-    "file_name": "animal face-19.png",
+    "fileName": "animal face-19.png",
     "folder": "animal_face",
     "path": "stickers/animal_face/animal face-19.png",
-    "folderName": "Animal Face"
+    "folderName": "Animal Face",
+    "size": 542
   },
   {
-    "file_name": "animal face-20.png",
+    "fileName": "animal face-20.png",
     "folder": "animal_face",
     "path": "stickers/animal_face/animal face-20.png",
-    "folderName": "Animal Face"
+    "folderName": "Animal Face",
+    "size": 613
   },
   {
-    "file_name": "animal face-21.png",
+    "fileName": "animal face-21.png",
     "folder": "animal_face",
     "path": "stickers/animal_face/animal face-21.png",
-    "folderName": "Animal Face"
+    "folderName": "Animal Face",
+    "size": 658
   },
   {
-    "file_name": "animal face-22.png",
+    "fileName": "animal face-22.png",
     "folder": "animal_face",
     "path": "stickers/animal_face/animal face-22.png",
-    "folderName": "Animal Face"
+    "folderName": "Animal Face",
+    "size": 636
   },
   {
-    "file_name": "animal face-23.png",
+    "fileName": "animal face-23.png",
     "folder": "animal_face",
     "path": "stickers/animal_face/animal face-23.png",
-    "folderName": "Animal Face"
+    "folderName": "Animal Face",
+    "size": 459
   },
   {
-    "file_name": "animal face-24.png",
+    "fileName": "animal face-24.png",
     "folder": "animal_face",
     "path": "stickers/animal_face/animal face-24.png",
-    "folderName": "Animal Face"
+    "folderName": "Animal Face",
+    "size": 307
   },
   {
-    "file_name": "baby months-01.png",
+    "fileName": "baby months-01.png",
     "folder": "baby_months",
     "path": "stickers/baby_months/baby months-01.png",
-    "folderName": "Baby Months"
+    "folderName": "Baby Months",
+    "size": 485
   },
   {
-    "file_name": "baby months-02.png",
+    "fileName": "baby months-02.png",
     "folder": "baby_months",
     "path": "stickers/baby_months/baby months-02.png",
-    "folderName": "Baby Months"
+    "folderName": "Baby Months",
+    "size": 589
   },
   {
-    "file_name": "baby months-03.png",
+    "fileName": "baby months-03.png",
     "folder": "baby_months",
     "path": "stickers/baby_months/baby months-03.png",
-    "folderName": "Baby Months"
+    "folderName": "Baby Months",
+    "size": 668
   },
   {
-    "file_name": "baby months-04.png",
+    "fileName": "baby months-04.png",
     "folder": "baby_months",
     "path": "stickers/baby_months/baby months-04.png",
-    "folderName": "Baby Months"
+    "folderName": "Baby Months",
+    "size": 493
   },
   {
-    "file_name": "baby months-05.png",
+    "fileName": "baby months-05.png",
     "folder": "baby_months",
     "path": "stickers/baby_months/baby months-05.png",
-    "folderName": "Baby Months"
+    "folderName": "Baby Months",
+    "size": 456
   },
   {
-    "file_name": "baby months-06.png",
+    "fileName": "baby months-06.png",
     "folder": "baby_months",
     "path": "stickers/baby_months/baby months-06.png",
-    "folderName": "Baby Months"
+    "folderName": "Baby Months",
+    "size": 546
   },
   {
-    "file_name": "baby months-07.png",
+    "fileName": "baby months-07.png",
     "folder": "baby_months",
     "path": "stickers/baby_months/baby months-07.png",
-    "folderName": "Baby Months"
+    "folderName": "Baby Months",
+    "size": 422
   },
   {
-    "file_name": "baby months-08.png",
+    "fileName": "baby months-08.png",
     "folder": "baby_months",
     "path": "stickers/baby_months/baby months-08.png",
-    "folderName": "Baby Months"
+    "folderName": "Baby Months",
+    "size": 610
   },
   {
-    "file_name": "baby months-09.png",
+    "fileName": "baby months-09.png",
     "folder": "baby_months",
     "path": "stickers/baby_months/baby months-09.png",
-    "folderName": "Baby Months"
+    "folderName": "Baby Months",
+    "size": 671
   },
   {
-    "file_name": "baby months-10.png",
+    "fileName": "baby months-10.png",
     "folder": "baby_months",
     "path": "stickers/baby_months/baby months-10.png",
-    "folderName": "Baby Months"
+    "folderName": "Baby Months",
+    "size": 670
   },
   {
-    "file_name": "baby months-11.png",
+    "fileName": "baby months-11.png",
     "folder": "baby_months",
     "path": "stickers/baby_months/baby months-11.png",
-    "folderName": "Baby Months"
+    "folderName": "Baby Months",
+    "size": 508
   },
   {
-    "file_name": "baby months-12.png",
+    "fileName": "baby months-12.png",
     "folder": "baby_months",
     "path": "stickers/baby_months/baby months-12.png",
-    "folderName": "Baby Months"
+    "folderName": "Baby Months",
+    "size": 660
   },
   {
-    "file_name": "biker-01.png",
+    "fileName": "biker-01.png",
     "folder": "biker",
     "path": "stickers/biker/biker-01.png",
-    "folderName": "Biker"
+    "folderName": "Biker",
+    "size": 501
   },
   {
-    "file_name": "biker-02.png",
+    "fileName": "biker-02.png",
     "folder": "biker",
     "path": "stickers/biker/biker-02.png",
-    "folderName": "Biker"
+    "folderName": "Biker",
+    "size": 526
   },
   {
-    "file_name": "biker-03.png",
+    "fileName": "biker-03.png",
     "folder": "biker",
     "path": "stickers/biker/biker-03.png",
-    "folderName": "Biker"
+    "folderName": "Biker",
+    "size": 629
   },
   {
-    "file_name": "biker-04.png",
+    "fileName": "biker-04.png",
     "folder": "biker",
     "path": "stickers/biker/biker-04.png",
-    "folderName": "Biker"
+    "folderName": "Biker",
+    "size": 633
   },
   {
-    "file_name": "biker-05.png",
+    "fileName": "biker-05.png",
     "folder": "biker",
     "path": "stickers/biker/biker-05.png",
-    "folderName": "Biker"
+    "folderName": "Biker",
+    "size": 502
   },
   {
-    "file_name": "biker-06.png",
+    "fileName": "biker-06.png",
     "folder": "biker",
     "path": "stickers/biker/biker-06.png",
-    "folderName": "Biker"
+    "folderName": "Biker",
+    "size": 679
   },
   {
-    "file_name": "biker-07.png",
+    "fileName": "biker-07.png",
     "folder": "biker",
     "path": "stickers/biker/biker-07.png",
-    "folderName": "Biker"
+    "folderName": "Biker",
+    "size": 697
   },
   {
-    "file_name": "biker-08.png",
+    "fileName": "biker-08.png",
     "folder": "biker",
     "path": "stickers/biker/biker-08.png",
-    "folderName": "Biker"
+    "folderName": "Biker",
+    "size": 409
   },
   {
-    "file_name": "biker-09.png",
+    "fileName": "biker-09.png",
     "folder": "biker",
     "path": "stickers/biker/biker-09.png",
-    "folderName": "Biker"
+    "folderName": "Biker",
+    "size": 377
   },
   {
-    "file_name": "biker-10.png",
+    "fileName": "biker-10.png",
     "folder": "biker",
     "path": "stickers/biker/biker-10.png",
-    "folderName": "Biker"
+    "folderName": "Biker",
+    "size": 431
   },
   {
-    "file_name": "biker-11.png",
+    "fileName": "biker-11.png",
     "folder": "biker",
     "path": "stickers/biker/biker-11.png",
-    "folderName": "Biker"
+    "folderName": "Biker",
+    "size": 418
   },
   {
-    "file_name": "biker-12.png",
+    "fileName": "biker-12.png",
     "folder": "biker",
     "path": "stickers/biker/biker-12.png",
-    "folderName": "Biker"
+    "folderName": "Biker",
+    "size": 470
   },
   {
-    "file_name": "biker-13.png",
+    "fileName": "biker-13.png",
     "folder": "biker",
     "path": "stickers/biker/biker-13.png",
-    "folderName": "Biker"
+    "folderName": "Biker",
+    "size": 515
   },
   {
-    "file_name": "biker-14.png",
+    "fileName": "biker-14.png",
     "folder": "biker",
     "path": "stickers/biker/biker-14.png",
-    "folderName": "Biker"
+    "folderName": "Biker",
+    "size": 528
   },
   {
-    "file_name": "biker-15.png",
+    "fileName": "biker-15.png",
     "folder": "biker",
     "path": "stickers/biker/biker-15.png",
-    "folderName": "Biker"
+    "folderName": "Biker",
+    "size": 684
   },
   {
-    "file_name": "biker-16.png",
+    "fileName": "biker-16.png",
     "folder": "biker",
     "path": "stickers/biker/biker-16.png",
-    "folderName": "Biker"
+    "folderName": "Biker",
+    "size": 671
   },
   {
-    "file_name": "biker-17.png",
+    "fileName": "biker-17.png",
     "folder": "biker",
     "path": "stickers/biker/biker-17.png",
-    "folderName": "Biker"
+    "folderName": "Biker",
+    "size": 635
   },
   {
-    "file_name": "biker-18.png",
+    "fileName": "biker-18.png",
     "folder": "biker",
     "path": "stickers/biker/biker-18.png",
-    "folderName": "Biker"
+    "folderName": "Biker",
+    "size": 518
   },
   {
-    "file_name": "biker-19.png",
+    "fileName": "biker-19.png",
     "folder": "biker",
     "path": "stickers/biker/biker-19.png",
-    "folderName": "Biker"
+    "folderName": "Biker",
+    "size": 566
   },
   {
-    "file_name": "biker-20.png",
+    "fileName": "biker-20.png",
     "folder": "biker",
     "path": "stickers/biker/biker-20.png",
-    "folderName": "Biker"
+    "folderName": "Biker",
+    "size": 310
   },
   {
-    "file_name": "biker-21.png",
+    "fileName": "biker-21.png",
     "folder": "biker",
     "path": "stickers/biker/biker-21.png",
-    "folderName": "Biker"
+    "folderName": "Biker",
+    "size": 613
   },
   {
-    "file_name": "1.png",
+    "fileName": "1.png",
     "folder": "birthday",
     "path": "stickers/birthday/1.png",
-    "folderName": "Birthday"
+    "folderName": "Birthday",
+    "size": 508
   },
   {
-    "file_name": "10.png",
+    "fileName": "10.png",
     "folder": "birthday",
     "path": "stickers/birthday/10.png",
-    "folderName": "Birthday"
+    "folderName": "Birthday",
+    "size": 463
   },
   {
-    "file_name": "11.png",
+    "fileName": "11.png",
     "folder": "birthday",
     "path": "stickers/birthday/11.png",
-    "folderName": "Birthday"
+    "folderName": "Birthday",
+    "size": 546
   },
   {
-    "file_name": "12.png",
+    "fileName": "12.png",
     "folder": "birthday",
     "path": "stickers/birthday/12.png",
-    "folderName": "Birthday"
+    "folderName": "Birthday",
+    "size": 333
   },
   {
-    "file_name": "13.png",
+    "fileName": "13.png",
     "folder": "birthday",
     "path": "stickers/birthday/13.png",
-    "folderName": "Birthday"
+    "folderName": "Birthday",
+    "size": 558
   },
   {
-    "file_name": "14.png",
+    "fileName": "14.png",
     "folder": "birthday",
     "path": "stickers/birthday/14.png",
-    "folderName": "Birthday"
+    "folderName": "Birthday",
+    "size": 650
   },
   {
-    "file_name": "15.png",
+    "fileName": "15.png",
     "folder": "birthday",
     "path": "stickers/birthday/15.png",
-    "folderName": "Birthday"
+    "folderName": "Birthday",
+    "size": 500
   },
   {
-    "file_name": "16.png",
+    "fileName": "16.png",
     "folder": "birthday",
     "path": "stickers/birthday/16.png",
-    "folderName": "Birthday"
+    "folderName": "Birthday",
+    "size": 628
   },
   {
-    "file_name": "17.png",
+    "fileName": "17.png",
     "folder": "birthday",
     "path": "stickers/birthday/17.png",
-    "folderName": "Birthday"
+    "folderName": "Birthday",
+    "size": 684
   },
   {
-    "file_name": "18.png",
+    "fileName": "18.png",
     "folder": "birthday",
     "path": "stickers/birthday/18.png",
-    "folderName": "Birthday"
+    "folderName": "Birthday",
+    "size": 325
   },
   {
-    "file_name": "19.png",
+    "fileName": "19.png",
     "folder": "birthday",
     "path": "stickers/birthday/19.png",
-    "folderName": "Birthday"
+    "folderName": "Birthday",
+    "size": 338
   },
   {
-    "file_name": "2.png",
+    "fileName": "2.png",
     "folder": "birthday",
     "path": "stickers/birthday/2.png",
-    "folderName": "Birthday"
+    "folderName": "Birthday",
+    "size": 632
   },
   {
-    "file_name": "20.png",
+    "fileName": "20.png",
     "folder": "birthday",
     "path": "stickers/birthday/20.png",
-    "folderName": "Birthday"
+    "folderName": "Birthday",
+    "size": 316
   },
   {
-    "file_name": "3.png",
+    "fileName": "3.png",
     "folder": "birthday",
     "path": "stickers/birthday/3.png",
-    "folderName": "Birthday"
+    "folderName": "Birthday",
+    "size": 345
   },
   {
-    "file_name": "4.png",
+    "fileName": "4.png",
     "folder": "birthday",
     "path": "stickers/birthday/4.png",
-    "folderName": "Birthday"
+    "folderName": "Birthday",
+    "size": 544
   },
   {
-    "file_name": "5.png",
+    "fileName": "5.png",
     "folder": "birthday",
     "path": "stickers/birthday/5.png",
-    "folderName": "Birthday"
+    "folderName": "Birthday",
+    "size": 324
   },
   {
-    "file_name": "6.png",
+    "fileName": "6.png",
     "folder": "birthday",
     "path": "stickers/birthday/6.png",
-    "folderName": "Birthday"
+    "folderName": "Birthday",
+    "size": 569
   },
   {
-    "file_name": "7.png",
+    "fileName": "7.png",
     "folder": "birthday",
     "path": "stickers/birthday/7.png",
-    "folderName": "Birthday"
+    "folderName": "Birthday",
+    "size": 394
   },
   {
-    "file_name": "8.png",
+    "fileName": "8.png",
     "folder": "birthday",
     "path": "stickers/birthday/8.png",
-    "folderName": "Birthday"
+    "folderName": "Birthday",
+    "size": 476
   },
   {
-    "file_name": "9.png",
+    "fileName": "9.png",
     "folder": "birthday",
     "path": "stickers/birthday/9.png",
-    "folderName": "Birthday"
+    "folderName": "Birthday",
+    "size": 667
   },
   {
-    "file_name": "butterfly-01.png",
+    "fileName": "butterfly-01.png",
     "folder": "butterfly",
     "path": "stickers/butterfly/butterfly-01.png",
-    "folderName": "Butterfly"
+    "folderName": "Butterfly",
+    "size": 427
   },
   {
-    "file_name": "butterfly-02.png",
+    "fileName": "butterfly-02.png",
     "folder": "butterfly",
     "path": "stickers/butterfly/butterfly-02.png",
-    "folderName": "Butterfly"
+    "folderName": "Butterfly",
+    "size": 307
   },
   {
-    "file_name": "butterfly-03.png",
+    "fileName": "butterfly-03.png",
     "folder": "butterfly",
     "path": "stickers/butterfly/butterfly-03.png",
-    "folderName": "Butterfly"
+    "folderName": "Butterfly",
+    "size": 588
   },
   {
-    "file_name": "butterfly-04.png",
+    "fileName": "butterfly-04.png",
     "folder": "butterfly",
     "path": "stickers/butterfly/butterfly-04.png",
-    "folderName": "Butterfly"
+    "folderName": "Butterfly",
+    "size": 647
   },
   {
-    "file_name": "butterfly-05.png",
+    "fileName": "butterfly-05.png",
     "folder": "butterfly",
     "path": "stickers/butterfly/butterfly-05.png",
-    "folderName": "Butterfly"
+    "folderName": "Butterfly",
+    "size": 584
   },
   {
-    "file_name": "butterfly-06.png",
+    "fileName": "butterfly-06.png",
     "folder": "butterfly",
     "path": "stickers/butterfly/butterfly-06.png",
-    "folderName": "Butterfly"
+    "folderName": "Butterfly",
+    "size": 464
   },
   {
-    "file_name": "butterfly-07.png",
+    "fileName": "butterfly-07.png",
     "folder": "butterfly",
     "path": "stickers/butterfly/butterfly-07.png",
-    "folderName": "Butterfly"
+    "folderName": "Butterfly",
+    "size": 487
   },
   {
-    "file_name": "butterfly-08.png",
+    "fileName": "butterfly-08.png",
     "folder": "butterfly",
     "path": "stickers/butterfly/butterfly-08.png",
-    "folderName": "Butterfly"
+    "folderName": "Butterfly",
+    "size": 435
   },
   {
-    "file_name": "butterfly-09.png",
+    "fileName": "butterfly-09.png",
     "folder": "butterfly",
     "path": "stickers/butterfly/butterfly-09.png",
-    "folderName": "Butterfly"
+    "folderName": "Butterfly",
+    "size": 520
   },
   {
-    "file_name": "butterfly-10.png",
+    "fileName": "butterfly-10.png",
     "folder": "butterfly",
     "path": "stickers/butterfly/butterfly-10.png",
-    "folderName": "Butterfly"
+    "folderName": "Butterfly",
+    "size": 583
   },
   {
-    "file_name": "butterfly-11.png",
+    "fileName": "butterfly-11.png",
     "folder": "butterfly",
     "path": "stickers/butterfly/butterfly-11.png",
-    "folderName": "Butterfly"
+    "folderName": "Butterfly",
+    "size": 664
   },
   {
-    "file_name": "butterfly-12.png",
+    "fileName": "butterfly-12.png",
     "folder": "butterfly",
     "path": "stickers/butterfly/butterfly-12.png",
-    "folderName": "Butterfly"
+    "folderName": "Butterfly",
+    "size": 617
   },
   {
-    "file_name": "butterfly-13.png",
+    "fileName": "butterfly-13.png",
     "folder": "butterfly",
     "path": "stickers/butterfly/butterfly-13.png",
-    "folderName": "Butterfly"
+    "folderName": "Butterfly",
+    "size": 526
   },
   {
-    "file_name": "butterfly-14.png",
+    "fileName": "butterfly-14.png",
     "folder": "butterfly",
     "path": "stickers/butterfly/butterfly-14.png",
-    "folderName": "Butterfly"
+    "folderName": "Butterfly",
+    "size": 540
   },
   {
-    "file_name": "butterfly-15.png",
+    "fileName": "butterfly-15.png",
     "folder": "butterfly",
     "path": "stickers/butterfly/butterfly-15.png",
-    "folderName": "Butterfly"
+    "folderName": "Butterfly",
+    "size": 539
   },
   {
-    "file_name": "butterfly-16.png",
+    "fileName": "butterfly-16.png",
     "folder": "butterfly",
     "path": "stickers/butterfly/butterfly-16.png",
-    "folderName": "Butterfly"
+    "folderName": "Butterfly",
+    "size": 585
   },
   {
-    "file_name": "butterfly-17.png",
+    "fileName": "butterfly-17.png",
     "folder": "butterfly",
     "path": "stickers/butterfly/butterfly-17.png",
-    "folderName": "Butterfly"
+    "folderName": "Butterfly",
+    "size": 544
   },
   {
-    "file_name": "butterfly-18.png",
+    "fileName": "butterfly-18.png",
     "folder": "butterfly",
     "path": "stickers/butterfly/butterfly-18.png",
-    "folderName": "Butterfly"
+    "folderName": "Butterfly",
+    "size": 576
   },
   {
-    "file_name": "butterfly-19.png",
+    "fileName": "butterfly-19.png",
     "folder": "butterfly",
     "path": "stickers/butterfly/butterfly-19.png",
-    "folderName": "Butterfly"
+    "folderName": "Butterfly",
+    "size": 670
   },
   {
-    "file_name": "butterfly-20.png",
+    "fileName": "butterfly-20.png",
     "folder": "butterfly",
     "path": "stickers/butterfly/butterfly-20.png",
-    "folderName": "Butterfly"
+    "folderName": "Butterfly",
+    "size": 387
   },
   {
-    "file_name": "butterfly-21.png",
+    "fileName": "butterfly-21.png",
     "folder": "butterfly",
     "path": "stickers/butterfly/butterfly-21.png",
-    "folderName": "Butterfly"
+    "folderName": "Butterfly",
+    "size": 344
   },
   {
-    "file_name": "cafe-01.png",
+    "fileName": "cafe-01.png",
     "folder": "cafe",
     "path": "stickers/cafe/cafe-01.png",
-    "folderName": "Cafe"
+    "folderName": "Cafe",
+    "size": 435
   },
   {
-    "file_name": "cafe-02.png",
+    "fileName": "cafe-02.png",
     "folder": "cafe",
     "path": "stickers/cafe/cafe-02.png",
-    "folderName": "Cafe"
+    "folderName": "Cafe",
+    "size": 576
   },
   {
-    "file_name": "cafe-03.png",
+    "fileName": "cafe-03.png",
     "folder": "cafe",
     "path": "stickers/cafe/cafe-03.png",
-    "folderName": "Cafe"
+    "folderName": "Cafe",
+    "size": 503
   },
   {
-    "file_name": "cafe-04.png",
+    "fileName": "cafe-04.png",
     "folder": "cafe",
     "path": "stickers/cafe/cafe-04.png",
-    "folderName": "Cafe"
+    "folderName": "Cafe",
+    "size": 422
   },
   {
-    "file_name": "cafe-05.png",
+    "fileName": "cafe-05.png",
     "folder": "cafe",
     "path": "stickers/cafe/cafe-05.png",
-    "folderName": "Cafe"
+    "folderName": "Cafe",
+    "size": 676
   },
   {
-    "file_name": "cafe-06.png",
+    "fileName": "cafe-06.png",
     "folder": "cafe",
     "path": "stickers/cafe/cafe-06.png",
-    "folderName": "Cafe"
+    "folderName": "Cafe",
+    "size": 614
   },
   {
-    "file_name": "cafe-07.png",
+    "fileName": "cafe-07.png",
     "folder": "cafe",
     "path": "stickers/cafe/cafe-07.png",
-    "folderName": "Cafe"
+    "folderName": "Cafe",
+    "size": 486
   },
   {
-    "file_name": "cafe-08.png",
+    "fileName": "cafe-08.png",
     "folder": "cafe",
     "path": "stickers/cafe/cafe-08.png",
-    "folderName": "Cafe"
+    "folderName": "Cafe",
+    "size": 400
   },
   {
-    "file_name": "cafe-09.png",
+    "fileName": "cafe-09.png",
     "folder": "cafe",
     "path": "stickers/cafe/cafe-09.png",
-    "folderName": "Cafe"
+    "folderName": "Cafe",
+    "size": 325
   },
   {
-    "file_name": "cafe-10.png",
+    "fileName": "cafe-10.png",
     "folder": "cafe",
     "path": "stickers/cafe/cafe-10.png",
-    "folderName": "Cafe"
+    "folderName": "Cafe",
+    "size": 688
   },
   {
-    "file_name": "cafe-11.png",
+    "fileName": "cafe-11.png",
     "folder": "cafe",
     "path": "stickers/cafe/cafe-11.png",
-    "folderName": "Cafe"
+    "folderName": "Cafe",
+    "size": 313
   },
   {
-    "file_name": "cafe-12.png",
+    "fileName": "cafe-12.png",
     "folder": "cafe",
     "path": "stickers/cafe/cafe-12.png",
-    "folderName": "Cafe"
+    "folderName": "Cafe",
+    "size": 313
   },
   {
-    "file_name": "cafe-13.png",
+    "fileName": "cafe-13.png",
     "folder": "cafe",
     "path": "stickers/cafe/cafe-13.png",
-    "folderName": "Cafe"
+    "folderName": "Cafe",
+    "size": 574
   },
   {
-    "file_name": "cafe-14.png",
+    "fileName": "cafe-14.png",
     "folder": "cafe",
     "path": "stickers/cafe/cafe-14.png",
-    "folderName": "Cafe"
+    "folderName": "Cafe",
+    "size": 540
   },
   {
-    "file_name": "cafe-15.png",
+    "fileName": "cafe-15.png",
     "folder": "cafe",
     "path": "stickers/cafe/cafe-15.png",
-    "folderName": "Cafe"
+    "folderName": "Cafe",
+    "size": 532
   },
   {
-    "file_name": "cake-01.png",
+    "fileName": "cake-01.png",
     "folder": "cake",
     "path": "stickers/cake/cake-01.png",
-    "folderName": "Cake"
+    "folderName": "Cake",
+    "size": 693
   },
   {
-    "file_name": "cake-02.png",
+    "fileName": "cake-02.png",
     "folder": "cake",
     "path": "stickers/cake/cake-02.png",
-    "folderName": "Cake"
+    "folderName": "Cake",
+    "size": 467
   },
   {
-    "file_name": "cake-03.png",
+    "fileName": "cake-03.png",
     "folder": "cake",
     "path": "stickers/cake/cake-03.png",
-    "folderName": "Cake"
+    "folderName": "Cake",
+    "size": 653
   },
   {
-    "file_name": "cake-04.png",
+    "fileName": "cake-04.png",
     "folder": "cake",
     "path": "stickers/cake/cake-04.png",
-    "folderName": "Cake"
+    "folderName": "Cake",
+    "size": 354
   },
   {
-    "file_name": "cake-05.png",
+    "fileName": "cake-05.png",
     "folder": "cake",
     "path": "stickers/cake/cake-05.png",
-    "folderName": "Cake"
+    "folderName": "Cake",
+    "size": 523
   },
   {
-    "file_name": "cake-06.png",
+    "fileName": "cake-06.png",
     "folder": "cake",
     "path": "stickers/cake/cake-06.png",
-    "folderName": "Cake"
+    "folderName": "Cake",
+    "size": 605
   },
   {
-    "file_name": "cake-07.png",
+    "fileName": "cake-07.png",
     "folder": "cake",
     "path": "stickers/cake/cake-07.png",
-    "folderName": "Cake"
+    "folderName": "Cake",
+    "size": 385
   },
   {
-    "file_name": "cake-08.png",
+    "fileName": "cake-08.png",
     "folder": "cake",
     "path": "stickers/cake/cake-08.png",
-    "folderName": "Cake"
+    "folderName": "Cake",
+    "size": 584
   },
   {
-    "file_name": "cake-09.png",
+    "fileName": "cake-09.png",
     "folder": "cake",
     "path": "stickers/cake/cake-09.png",
-    "folderName": "Cake"
+    "folderName": "Cake",
+    "size": 321
   },
   {
-    "file_name": "cake-10.png",
+    "fileName": "cake-10.png",
     "folder": "cake",
     "path": "stickers/cake/cake-10.png",
-    "folderName": "Cake"
+    "folderName": "Cake",
+    "size": 617
   },
   {
-    "file_name": "cake-11.png",
+    "fileName": "cake-11.png",
     "folder": "cake",
     "path": "stickers/cake/cake-11.png",
-    "folderName": "Cake"
+    "folderName": "Cake",
+    "size": 368
   },
   {
-    "file_name": "cake-12.png",
+    "fileName": "cake-12.png",
     "folder": "cake",
     "path": "stickers/cake/cake-12.png",
-    "folderName": "Cake"
+    "folderName": "Cake",
+    "size": 615
   },
   {
-    "file_name": "carnival masks-01.png",
+    "fileName": "carnival masks-01.png",
     "folder": "carnival_masks",
     "path": "stickers/carnival_masks/carnival masks-01.png",
-    "folderName": "Carnival Masks"
+    "folderName": "Carnival Masks",
+    "size": 662
   },
   {
-    "file_name": "carnival masks-02.png",
+    "fileName": "carnival masks-02.png",
     "folder": "carnival_masks",
     "path": "stickers/carnival_masks/carnival masks-02.png",
-    "folderName": "Carnival Masks"
+    "folderName": "Carnival Masks",
+    "size": 671
   },
   {
-    "file_name": "carnival masks-03.png",
+    "fileName": "carnival masks-03.png",
     "folder": "carnival_masks",
     "path": "stickers/carnival_masks/carnival masks-03.png",
-    "folderName": "Carnival Masks"
+    "folderName": "Carnival Masks",
+    "size": 473
   },
   {
-    "file_name": "carnival masks-04.png",
+    "fileName": "carnival masks-04.png",
     "folder": "carnival_masks",
     "path": "stickers/carnival_masks/carnival masks-04.png",
-    "folderName": "Carnival Masks"
+    "folderName": "Carnival Masks",
+    "size": 438
   },
   {
-    "file_name": "carnival masks-05.png",
+    "fileName": "carnival masks-05.png",
     "folder": "carnival_masks",
     "path": "stickers/carnival_masks/carnival masks-05.png",
-    "folderName": "Carnival Masks"
+    "folderName": "Carnival Masks",
+    "size": 319
   },
   {
-    "file_name": "carnival masks-06.png",
+    "fileName": "carnival masks-06.png",
     "folder": "carnival_masks",
     "path": "stickers/carnival_masks/carnival masks-06.png",
-    "folderName": "Carnival Masks"
+    "folderName": "Carnival Masks",
+    "size": 658
   },
   {
-    "file_name": "carnival masks-07.png",
+    "fileName": "carnival masks-07.png",
     "folder": "carnival_masks",
     "path": "stickers/carnival_masks/carnival masks-07.png",
-    "folderName": "Carnival Masks"
+    "folderName": "Carnival Masks",
+    "size": 518
   },
   {
-    "file_name": "carnival masks-08.png",
+    "fileName": "carnival masks-08.png",
     "folder": "carnival_masks",
     "path": "stickers/carnival_masks/carnival masks-08.png",
-    "folderName": "Carnival Masks"
+    "folderName": "Carnival Masks",
+    "size": 309
   },
   {
-    "file_name": "carnival masks-09.png",
+    "fileName": "carnival masks-09.png",
     "folder": "carnival_masks",
     "path": "stickers/carnival_masks/carnival masks-09.png",
-    "folderName": "Carnival Masks"
+    "folderName": "Carnival Masks",
+    "size": 322
   },
   {
-    "file_name": "carnival masks-10.png",
+    "fileName": "carnival masks-10.png",
     "folder": "carnival_masks",
     "path": "stickers/carnival_masks/carnival masks-10.png",
-    "folderName": "Carnival Masks"
+    "folderName": "Carnival Masks",
+    "size": 399
   },
   {
-    "file_name": "carnival masks-11.png",
+    "fileName": "carnival masks-11.png",
     "folder": "carnival_masks",
     "path": "stickers/carnival_masks/carnival masks-11.png",
-    "folderName": "Carnival Masks"
+    "folderName": "Carnival Masks",
+    "size": 681
   },
   {
-    "file_name": "carnival masks-12.png",
+    "fileName": "carnival masks-12.png",
     "folder": "carnival_masks",
     "path": "stickers/carnival_masks/carnival masks-12.png",
-    "folderName": "Carnival Masks"
+    "folderName": "Carnival Masks",
+    "size": 584
   },
   {
-    "file_name": "carnival masks-13.png",
+    "fileName": "carnival masks-13.png",
     "folder": "carnival_masks",
     "path": "stickers/carnival_masks/carnival masks-13.png",
-    "folderName": "Carnival Masks"
+    "folderName": "Carnival Masks",
+    "size": 643
   },
   {
-    "file_name": "carnival masks-14.png",
+    "fileName": "carnival masks-14.png",
     "folder": "carnival_masks",
     "path": "stickers/carnival_masks/carnival masks-14.png",
-    "folderName": "Carnival Masks"
+    "folderName": "Carnival Masks",
+    "size": 585
   },
   {
-    "file_name": "carnival masks-15.png",
+    "fileName": "carnival masks-15.png",
     "folder": "carnival_masks",
     "path": "stickers/carnival_masks/carnival masks-15.png",
-    "folderName": "Carnival Masks"
+    "folderName": "Carnival Masks",
+    "size": 419
   },
   {
-    "file_name": "1.png",
+    "fileName": "1.png",
     "folder": "christmas",
     "path": "stickers/christmas/1.png",
-    "folderName": "Christmas"
+    "folderName": "Christmas",
+    "size": 693
   },
   {
-    "file_name": "10.png",
+    "fileName": "10.png",
     "folder": "christmas",
     "path": "stickers/christmas/10.png",
-    "folderName": "Christmas"
+    "folderName": "Christmas",
+    "size": 591
   },
   {
-    "file_name": "11.png",
+    "fileName": "11.png",
     "folder": "christmas",
     "path": "stickers/christmas/11.png",
-    "folderName": "Christmas"
+    "folderName": "Christmas",
+    "size": 323
   },
   {
-    "file_name": "12.png",
+    "fileName": "12.png",
     "folder": "christmas",
     "path": "stickers/christmas/12.png",
-    "folderName": "Christmas"
+    "folderName": "Christmas",
+    "size": 303
   },
   {
-    "file_name": "13.png",
+    "fileName": "13.png",
     "folder": "christmas",
     "path": "stickers/christmas/13.png",
-    "folderName": "Christmas"
+    "folderName": "Christmas",
+    "size": 603
   },
   {
-    "file_name": "14.png",
+    "fileName": "14.png",
     "folder": "christmas",
     "path": "stickers/christmas/14.png",
-    "folderName": "Christmas"
+    "folderName": "Christmas",
+    "size": 570
   },
   {
-    "file_name": "15.png",
+    "fileName": "15.png",
     "folder": "christmas",
     "path": "stickers/christmas/15.png",
-    "folderName": "Christmas"
+    "folderName": "Christmas",
+    "size": 480
   },
   {
-    "file_name": "16.png",
+    "fileName": "16.png",
     "folder": "christmas",
     "path": "stickers/christmas/16.png",
-    "folderName": "Christmas"
+    "folderName": "Christmas",
+    "size": 320
   },
   {
-    "file_name": "17.png",
+    "fileName": "17.png",
     "folder": "christmas",
     "path": "stickers/christmas/17.png",
-    "folderName": "Christmas"
+    "folderName": "Christmas",
+    "size": 325
   },
   {
-    "file_name": "18.png",
+    "fileName": "18.png",
     "folder": "christmas",
     "path": "stickers/christmas/18.png",
-    "folderName": "Christmas"
+    "folderName": "Christmas",
+    "size": 668
   },
   {
-    "file_name": "19.png",
+    "fileName": "19.png",
     "folder": "christmas",
     "path": "stickers/christmas/19.png",
-    "folderName": "Christmas"
+    "folderName": "Christmas",
+    "size": 380
   },
   {
-    "file_name": "2.png",
+    "fileName": "2.png",
     "folder": "christmas",
     "path": "stickers/christmas/2.png",
-    "folderName": "Christmas"
+    "folderName": "Christmas",
+    "size": 454
   },
   {
-    "file_name": "20.png",
+    "fileName": "20.png",
     "folder": "christmas",
     "path": "stickers/christmas/20.png",
-    "folderName": "Christmas"
+    "folderName": "Christmas",
+    "size": 693
   },
   {
-    "file_name": "3.png",
+    "fileName": "3.png",
     "folder": "christmas",
     "path": "stickers/christmas/3.png",
-    "folderName": "Christmas"
+    "folderName": "Christmas",
+    "size": 400
   },
   {
-    "file_name": "4.png",
+    "fileName": "4.png",
     "folder": "christmas",
     "path": "stickers/christmas/4.png",
-    "folderName": "Christmas"
+    "folderName": "Christmas",
+    "size": 378
   },
   {
-    "file_name": "5.png",
+    "fileName": "5.png",
     "folder": "christmas",
     "path": "stickers/christmas/5.png",
-    "folderName": "Christmas"
+    "folderName": "Christmas",
+    "size": 410
   },
   {
-    "file_name": "6.png",
+    "fileName": "6.png",
     "folder": "christmas",
     "path": "stickers/christmas/6.png",
-    "folderName": "Christmas"
+    "folderName": "Christmas",
+    "size": 336
   },
   {
-    "file_name": "7.png",
+    "fileName": "7.png",
     "folder": "christmas",
     "path": "stickers/christmas/7.png",
-    "folderName": "Christmas"
+    "folderName": "Christmas",
+    "size": 520
   },
   {
-    "file_name": "8.png",
+    "fileName": "8.png",
     "folder": "christmas",
     "path": "stickers/christmas/8.png",
-    "folderName": "Christmas"
+    "folderName": "Christmas",
+    "size": 409
   },
   {
-    "file_name": "9.png",
+    "fileName": "9.png",
     "folder": "christmas",
     "path": "stickers/christmas/9.png",
-    "folderName": "Christmas"
+    "folderName": "Christmas",
+    "size": 662
   },
   {
-    "file_name": "christmas-01.png",
+    "fileName": "christmas-01.png",
     "folder": "christmas",
     "path": "stickers/christmas/christmas-01.png",
-    "folderName": "Christmas"
+    "folderName": "Christmas",
+    "size": 377
   },
   {
-    "file_name": "christmas-02.png",
+    "fileName": "christmas-02.png",
     "folder": "christmas",
     "path": "stickers/christmas/christmas-02.png",
-    "folderName": "Christmas"
+    "folderName": "Christmas",
+    "size": 693
   },
   {
-    "file_name": "christmas-03.png",
+    "fileName": "christmas-03.png",
     "folder": "christmas",
     "path": "stickers/christmas/christmas-03.png",
-    "folderName": "Christmas"
+    "folderName": "Christmas",
+    "size": 480
   },
   {
-    "file_name": "christmas-04.png",
+    "fileName": "christmas-04.png",
     "folder": "christmas",
     "path": "stickers/christmas/christmas-04.png",
-    "folderName": "Christmas"
+    "folderName": "Christmas",
+    "size": 644
   },
   {
-    "file_name": "christmas-05.png",
+    "fileName": "christmas-05.png",
     "folder": "christmas",
     "path": "stickers/christmas/christmas-05.png",
-    "folderName": "Christmas"
+    "folderName": "Christmas",
+    "size": 479
   },
   {
-    "file_name": "christmas-06.png",
+    "fileName": "christmas-06.png",
     "folder": "christmas",
     "path": "stickers/christmas/christmas-06.png",
-    "folderName": "Christmas"
+    "folderName": "Christmas",
+    "size": 543
   },
   {
-    "file_name": "christmas-07.png",
+    "fileName": "christmas-07.png",
     "folder": "christmas",
     "path": "stickers/christmas/christmas-07.png",
-    "folderName": "Christmas"
+    "folderName": "Christmas",
+    "size": 461
   },
   {
-    "file_name": "christmas-08.png",
+    "fileName": "christmas-08.png",
     "folder": "christmas",
     "path": "stickers/christmas/christmas-08.png",
-    "folderName": "Christmas"
+    "folderName": "Christmas",
+    "size": 592
   },
   {
-    "file_name": "christmas-09.png",
+    "fileName": "christmas-09.png",
     "folder": "christmas",
     "path": "stickers/christmas/christmas-09.png",
-    "folderName": "Christmas"
+    "folderName": "Christmas",
+    "size": 374
   },
   {
-    "file_name": "christmas-10.png",
+    "fileName": "christmas-10.png",
     "folder": "christmas",
     "path": "stickers/christmas/christmas-10.png",
-    "folderName": "Christmas"
+    "folderName": "Christmas",
+    "size": 461
   },
   {
-    "file_name": "christmas-11.png",
+    "fileName": "christmas-11.png",
     "folder": "christmas",
     "path": "stickers/christmas/christmas-11.png",
-    "folderName": "Christmas"
+    "folderName": "Christmas",
+    "size": 617
   },
   {
-    "file_name": "christmas-12.png",
+    "fileName": "christmas-12.png",
     "folder": "christmas",
     "path": "stickers/christmas/christmas-12.png",
-    "folderName": "Christmas"
+    "folderName": "Christmas",
+    "size": 646
   },
   {
-    "file_name": "christmas-13.png",
+    "fileName": "christmas-13.png",
     "folder": "christmas",
     "path": "stickers/christmas/christmas-13.png",
-    "folderName": "Christmas"
+    "folderName": "Christmas",
+    "size": 638
   },
   {
-    "file_name": "christmas-14.png",
+    "fileName": "christmas-14.png",
     "folder": "christmas",
     "path": "stickers/christmas/christmas-14.png",
-    "folderName": "Christmas"
+    "folderName": "Christmas",
+    "size": 332
   },
   {
-    "file_name": "christmas-15.png",
+    "fileName": "christmas-15.png",
     "folder": "christmas",
     "path": "stickers/christmas/christmas-15.png",
-    "folderName": "Christmas"
+    "folderName": "Christmas",
+    "size": 604
   },
   {
-    "file_name": "christmas-16.png",
+    "fileName": "christmas-16.png",
     "folder": "christmas",
     "path": "stickers/christmas/christmas-16.png",
-    "folderName": "Christmas"
+    "folderName": "Christmas",
+    "size": 389
   },
   {
-    "file_name": "christmas-17.png",
+    "fileName": "christmas-17.png",
     "folder": "christmas",
     "path": "stickers/christmas/christmas-17.png",
-    "folderName": "Christmas"
+    "folderName": "Christmas",
+    "size": 646
   },
   {
-    "file_name": "christmas-18.png",
+    "fileName": "christmas-18.png",
     "folder": "christmas",
     "path": "stickers/christmas/christmas-18.png",
-    "folderName": "Christmas"
+    "folderName": "Christmas",
+    "size": 523
   },
   {
-    "file_name": "collage-01.png",
+    "fileName": "collage-01.png",
     "folder": "collage",
     "path": "stickers/collage/collage-01.png",
-    "folderName": "Collage"
+    "folderName": "Collage",
+    "size": 458
   },
   {
-    "file_name": "collage-02.png",
+    "fileName": "collage-02.png",
     "folder": "collage",
     "path": "stickers/collage/collage-02.png",
-    "folderName": "Collage"
+    "folderName": "Collage",
+    "size": 641
   },
   {
-    "file_name": "collage-03.png",
+    "fileName": "collage-03.png",
     "folder": "collage",
     "path": "stickers/collage/collage-03.png",
-    "folderName": "Collage"
+    "folderName": "Collage",
+    "size": 580
   },
   {
-    "file_name": "collage-04.png",
+    "fileName": "collage-04.png",
     "folder": "collage",
     "path": "stickers/collage/collage-04.png",
-    "folderName": "Collage"
+    "folderName": "Collage",
+    "size": 354
   },
   {
-    "file_name": "collage-05.png",
+    "fileName": "collage-05.png",
     "folder": "collage",
     "path": "stickers/collage/collage-05.png",
-    "folderName": "Collage"
+    "folderName": "Collage",
+    "size": 418
   },
   {
-    "file_name": "collage-06.png",
+    "fileName": "collage-06.png",
     "folder": "collage",
     "path": "stickers/collage/collage-06.png",
-    "folderName": "Collage"
+    "folderName": "Collage",
+    "size": 500
   },
   {
-    "file_name": "collage-07.png",
+    "fileName": "collage-07.png",
     "folder": "collage",
     "path": "stickers/collage/collage-07.png",
-    "folderName": "Collage"
+    "folderName": "Collage",
+    "size": 409
   },
   {
-    "file_name": "collage-08.png",
+    "fileName": "collage-08.png",
     "folder": "collage",
     "path": "stickers/collage/collage-08.png",
-    "folderName": "Collage"
+    "folderName": "Collage",
+    "size": 453
   },
   {
-    "file_name": "collage-09.png",
+    "fileName": "collage-09.png",
     "folder": "collage",
     "path": "stickers/collage/collage-09.png",
-    "folderName": "Collage"
+    "folderName": "Collage",
+    "size": 569
   },
   {
-    "file_name": "collage-10.png",
+    "fileName": "collage-10.png",
     "folder": "collage",
     "path": "stickers/collage/collage-10.png",
-    "folderName": "Collage"
+    "folderName": "Collage",
+    "size": 367
   },
   {
-    "file_name": "collage-11.png",
+    "fileName": "collage-11.png",
     "folder": "collage",
     "path": "stickers/collage/collage-11.png",
-    "folderName": "Collage"
+    "folderName": "Collage",
+    "size": 611
   },
   {
-    "file_name": "collage-12.png",
+    "fileName": "collage-12.png",
     "folder": "collage",
     "path": "stickers/collage/collage-12.png",
-    "folderName": "Collage"
+    "folderName": "Collage",
+    "size": 524
   },
   {
-    "file_name": "cool badges-01.png",
+    "fileName": "cool badges-01.png",
     "folder": "cool_badges",
     "path": "stickers/cool_badges/cool badges-01.png",
-    "folderName": "Cool Badges"
+    "folderName": "Cool Badges",
+    "size": 691
   },
   {
-    "file_name": "cool badges-02.png",
+    "fileName": "cool badges-02.png",
     "folder": "cool_badges",
     "path": "stickers/cool_badges/cool badges-02.png",
-    "folderName": "Cool Badges"
+    "folderName": "Cool Badges",
+    "size": 300
   },
   {
-    "file_name": "cool badges-03.png",
+    "fileName": "cool badges-03.png",
     "folder": "cool_badges",
     "path": "stickers/cool_badges/cool badges-03.png",
-    "folderName": "Cool Badges"
+    "folderName": "Cool Badges",
+    "size": 448
   },
   {
-    "file_name": "cool badges-04.png",
+    "fileName": "cool badges-04.png",
     "folder": "cool_badges",
     "path": "stickers/cool_badges/cool badges-04.png",
-    "folderName": "Cool Badges"
+    "folderName": "Cool Badges",
+    "size": 329
   },
   {
-    "file_name": "cool badges-05.png",
+    "fileName": "cool badges-05.png",
     "folder": "cool_badges",
     "path": "stickers/cool_badges/cool badges-05.png",
-    "folderName": "Cool Badges"
+    "folderName": "Cool Badges",
+    "size": 325
   },
   {
-    "file_name": "cool badges-06.png",
+    "fileName": "cool badges-06.png",
     "folder": "cool_badges",
     "path": "stickers/cool_badges/cool badges-06.png",
-    "folderName": "Cool Badges"
+    "folderName": "Cool Badges",
+    "size": 491
   },
   {
-    "file_name": "cool badges-07.png",
+    "fileName": "cool badges-07.png",
     "folder": "cool_badges",
     "path": "stickers/cool_badges/cool badges-07.png",
-    "folderName": "Cool Badges"
+    "folderName": "Cool Badges",
+    "size": 357
   },
   {
-    "file_name": "cool badges-08.png",
+    "fileName": "cool badges-08.png",
     "folder": "cool_badges",
     "path": "stickers/cool_badges/cool badges-08.png",
-    "folderName": "Cool Badges"
+    "folderName": "Cool Badges",
+    "size": 631
   },
   {
-    "file_name": "cool badges-09.png",
+    "fileName": "cool badges-09.png",
     "folder": "cool_badges",
     "path": "stickers/cool_badges/cool badges-09.png",
-    "folderName": "Cool Badges"
+    "folderName": "Cool Badges",
+    "size": 497
   },
   {
-    "file_name": "cool badges-10.png",
+    "fileName": "cool badges-10.png",
     "folder": "cool_badges",
     "path": "stickers/cool_badges/cool badges-10.png",
-    "folderName": "Cool Badges"
+    "folderName": "Cool Badges",
+    "size": 660
   },
   {
-    "file_name": "cool badges-11.png",
+    "fileName": "cool badges-11.png",
     "folder": "cool_badges",
     "path": "stickers/cool_badges/cool badges-11.png",
-    "folderName": "Cool Badges"
+    "folderName": "Cool Badges",
+    "size": 565
   },
   {
-    "file_name": "cool badges-12.png",
+    "fileName": "cool badges-12.png",
     "folder": "cool_badges",
     "path": "stickers/cool_badges/cool badges-12.png",
-    "folderName": "Cool Badges"
+    "folderName": "Cool Badges",
+    "size": 610
   },
   {
-    "file_name": "cool badges-13.png",
+    "fileName": "cool badges-13.png",
     "folder": "cool_badges",
     "path": "stickers/cool_badges/cool badges-13.png",
-    "folderName": "Cool Badges"
+    "folderName": "Cool Badges",
+    "size": 494
   },
   {
-    "file_name": "cool badges-14.png",
+    "fileName": "cool badges-14.png",
     "folder": "cool_badges",
     "path": "stickers/cool_badges/cool badges-14.png",
-    "folderName": "Cool Badges"
+    "folderName": "Cool Badges",
+    "size": 337
   },
   {
-    "file_name": "cool badges-15.png",
+    "fileName": "cool badges-15.png",
     "folder": "cool_badges",
     "path": "stickers/cool_badges/cool badges-15.png",
-    "folderName": "Cool Badges"
+    "folderName": "Cool Badges",
+    "size": 569
   },
   {
-    "file_name": "cool badges-16.png",
+    "fileName": "cool badges-16.png",
     "folder": "cool_badges",
     "path": "stickers/cool_badges/cool badges-16.png",
-    "folderName": "Cool Badges"
+    "folderName": "Cool Badges",
+    "size": 534
   },
   {
-    "file_name": "cool badges-17.png",
+    "fileName": "cool badges-17.png",
     "folder": "cool_badges",
     "path": "stickers/cool_badges/cool badges-17.png",
-    "folderName": "Cool Badges"
+    "folderName": "Cool Badges",
+    "size": 319
   },
   {
-    "file_name": "cool badges-18.png",
+    "fileName": "cool badges-18.png",
     "folder": "cool_badges",
     "path": "stickers/cool_badges/cool badges-18.png",
-    "folderName": "Cool Badges"
+    "folderName": "Cool Badges",
+    "size": 448
   },
   {
-    "file_name": "covid-01.png",
+    "fileName": "covid-01.png",
     "folder": "covid",
     "path": "stickers/covid/covid-01.png",
-    "folderName": "Covid"
+    "folderName": "Covid",
+    "size": 495
   },
   {
-    "file_name": "covid-02.png",
+    "fileName": "covid-02.png",
     "folder": "covid",
     "path": "stickers/covid/covid-02.png",
-    "folderName": "Covid"
+    "folderName": "Covid",
+    "size": 466
   },
   {
-    "file_name": "covid-03.png",
+    "fileName": "covid-03.png",
     "folder": "covid",
     "path": "stickers/covid/covid-03.png",
-    "folderName": "Covid"
+    "folderName": "Covid",
+    "size": 507
   },
   {
-    "file_name": "covid-04.png",
+    "fileName": "covid-04.png",
     "folder": "covid",
     "path": "stickers/covid/covid-04.png",
-    "folderName": "Covid"
+    "folderName": "Covid",
+    "size": 660
   },
   {
-    "file_name": "covid-05.png",
+    "fileName": "covid-05.png",
     "folder": "covid",
     "path": "stickers/covid/covid-05.png",
-    "folderName": "Covid"
+    "folderName": "Covid",
+    "size": 451
   },
   {
-    "file_name": "covid-06.png",
+    "fileName": "covid-06.png",
     "folder": "covid",
     "path": "stickers/covid/covid-06.png",
-    "folderName": "Covid"
+    "folderName": "Covid",
+    "size": 453
   },
   {
-    "file_name": "covid-07.png",
+    "fileName": "covid-07.png",
     "folder": "covid",
     "path": "stickers/covid/covid-07.png",
-    "folderName": "Covid"
+    "folderName": "Covid",
+    "size": 354
   },
   {
-    "file_name": "covid-08.png",
+    "fileName": "covid-08.png",
     "folder": "covid",
     "path": "stickers/covid/covid-08.png",
-    "folderName": "Covid"
+    "folderName": "Covid",
+    "size": 445
   },
   {
-    "file_name": "covid-09.png",
+    "fileName": "covid-09.png",
     "folder": "covid",
     "path": "stickers/covid/covid-09.png",
-    "folderName": "Covid"
+    "folderName": "Covid",
+    "size": 596
   },
   {
-    "file_name": "covid-10.png",
+    "fileName": "covid-10.png",
     "folder": "covid",
     "path": "stickers/covid/covid-10.png",
-    "folderName": "Covid"
+    "folderName": "Covid",
+    "size": 353
   },
   {
-    "file_name": "covid-11.png",
+    "fileName": "covid-11.png",
     "folder": "covid",
     "path": "stickers/covid/covid-11.png",
-    "folderName": "Covid"
+    "folderName": "Covid",
+    "size": 303
   },
   {
-    "file_name": "covid-12.png",
+    "fileName": "covid-12.png",
     "folder": "covid",
     "path": "stickers/covid/covid-12.png",
-    "folderName": "Covid"
+    "folderName": "Covid",
+    "size": 570
   },
   {
-    "file_name": "1.png",
+    "fileName": "1.png",
     "folder": "cute_bear",
     "path": "stickers/cute_bear/1.png",
-    "folderName": "Cute Bear"
+    "folderName": "Cute Bear",
+    "size": 502
   },
   {
-    "file_name": "10.png",
+    "fileName": "10.png",
     "folder": "cute_bear",
     "path": "stickers/cute_bear/10.png",
-    "folderName": "Cute Bear"
+    "folderName": "Cute Bear",
+    "size": 502
   },
   {
-    "file_name": "11.png",
+    "fileName": "11.png",
     "folder": "cute_bear",
     "path": "stickers/cute_bear/11.png",
-    "folderName": "Cute Bear"
+    "folderName": "Cute Bear",
+    "size": 396
   },
   {
-    "file_name": "12.png",
+    "fileName": "12.png",
     "folder": "cute_bear",
     "path": "stickers/cute_bear/12.png",
-    "folderName": "Cute Bear"
+    "folderName": "Cute Bear",
+    "size": 606
   },
   {
-    "file_name": "13.png",
+    "fileName": "13.png",
     "folder": "cute_bear",
     "path": "stickers/cute_bear/13.png",
-    "folderName": "Cute Bear"
+    "folderName": "Cute Bear",
+    "size": 694
   },
   {
-    "file_name": "14.png",
+    "fileName": "14.png",
     "folder": "cute_bear",
     "path": "stickers/cute_bear/14.png",
-    "folderName": "Cute Bear"
+    "folderName": "Cute Bear",
+    "size": 629
   },
   {
-    "file_name": "15.png",
+    "fileName": "15.png",
     "folder": "cute_bear",
     "path": "stickers/cute_bear/15.png",
-    "folderName": "Cute Bear"
+    "folderName": "Cute Bear",
+    "size": 445
   },
   {
-    "file_name": "16.png",
+    "fileName": "16.png",
     "folder": "cute_bear",
     "path": "stickers/cute_bear/16.png",
-    "folderName": "Cute Bear"
+    "folderName": "Cute Bear",
+    "size": 547
   },
   {
-    "file_name": "17.png",
+    "fileName": "17.png",
     "folder": "cute_bear",
     "path": "stickers/cute_bear/17.png",
-    "folderName": "Cute Bear"
+    "folderName": "Cute Bear",
+    "size": 354
   },
   {
-    "file_name": "18.png",
+    "fileName": "18.png",
     "folder": "cute_bear",
     "path": "stickers/cute_bear/18.png",
-    "folderName": "Cute Bear"
+    "folderName": "Cute Bear",
+    "size": 336
   },
   {
-    "file_name": "19.png",
+    "fileName": "19.png",
     "folder": "cute_bear",
     "path": "stickers/cute_bear/19.png",
-    "folderName": "Cute Bear"
+    "folderName": "Cute Bear",
+    "size": 586
   },
   {
-    "file_name": "2.png",
+    "fileName": "2.png",
     "folder": "cute_bear",
     "path": "stickers/cute_bear/2.png",
-    "folderName": "Cute Bear"
+    "folderName": "Cute Bear",
+    "size": 313
   },
   {
-    "file_name": "20.png",
+    "fileName": "20.png",
     "folder": "cute_bear",
     "path": "stickers/cute_bear/20.png",
-    "folderName": "Cute Bear"
+    "folderName": "Cute Bear",
+    "size": 634
   },
   {
-    "file_name": "21.png",
+    "fileName": "21.png",
     "folder": "cute_bear",
     "path": "stickers/cute_bear/21.png",
-    "folderName": "Cute Bear"
+    "folderName": "Cute Bear",
+    "size": 532
   },
   {
-    "file_name": "22.png",
+    "fileName": "22.png",
     "folder": "cute_bear",
     "path": "stickers/cute_bear/22.png",
-    "folderName": "Cute Bear"
+    "folderName": "Cute Bear",
+    "size": 695
   },
   {
-    "file_name": "23.png",
+    "fileName": "23.png",
     "folder": "cute_bear",
     "path": "stickers/cute_bear/23.png",
-    "folderName": "Cute Bear"
+    "folderName": "Cute Bear",
+    "size": 308
   },
   {
-    "file_name": "24.png",
+    "fileName": "24.png",
     "folder": "cute_bear",
     "path": "stickers/cute_bear/24.png",
-    "folderName": "Cute Bear"
+    "folderName": "Cute Bear",
+    "size": 615
   },
   {
-    "file_name": "25.png",
+    "fileName": "25.png",
     "folder": "cute_bear",
     "path": "stickers/cute_bear/25.png",
-    "folderName": "Cute Bear"
+    "folderName": "Cute Bear",
+    "size": 501
   },
   {
-    "file_name": "3.png",
+    "fileName": "3.png",
     "folder": "cute_bear",
     "path": "stickers/cute_bear/3.png",
-    "folderName": "Cute Bear"
+    "folderName": "Cute Bear",
+    "size": 341
   },
   {
-    "file_name": "4.png",
+    "fileName": "4.png",
     "folder": "cute_bear",
     "path": "stickers/cute_bear/4.png",
-    "folderName": "Cute Bear"
+    "folderName": "Cute Bear",
+    "size": 382
   },
   {
-    "file_name": "5.png",
+    "fileName": "5.png",
     "folder": "cute_bear",
     "path": "stickers/cute_bear/5.png",
-    "folderName": "Cute Bear"
+    "folderName": "Cute Bear",
+    "size": 663
   },
   {
-    "file_name": "6.png",
+    "fileName": "6.png",
     "folder": "cute_bear",
     "path": "stickers/cute_bear/6.png",
-    "folderName": "Cute Bear"
+    "folderName": "Cute Bear",
+    "size": 373
   },
   {
-    "file_name": "7.png",
+    "fileName": "7.png",
     "folder": "cute_bear",
     "path": "stickers/cute_bear/7.png",
-    "folderName": "Cute Bear"
+    "folderName": "Cute Bear",
+    "size": 353
   },
   {
-    "file_name": "8.png",
+    "fileName": "8.png",
     "folder": "cute_bear",
     "path": "stickers/cute_bear/8.png",
-    "folderName": "Cute Bear"
+    "folderName": "Cute Bear",
+    "size": 637
   },
   {
-    "file_name": "9.png",
+    "fileName": "9.png",
     "folder": "cute_bear",
     "path": "stickers/cute_bear/9.png",
-    "folderName": "Cute Bear"
+    "folderName": "Cute Bear",
+    "size": 579
   },
   {
-    "file_name": "1.png",
+    "fileName": "1.png",
     "folder": "cute_cat",
     "path": "stickers/cute_cat/1.png",
-    "folderName": "Cute Cat"
+    "folderName": "Cute Cat",
+    "size": 496
   },
   {
-    "file_name": "10.png",
+    "fileName": "10.png",
     "folder": "cute_cat",
     "path": "stickers/cute_cat/10.png",
-    "folderName": "Cute Cat"
+    "folderName": "Cute Cat",
+    "size": 437
   },
   {
-    "file_name": "11.png",
+    "fileName": "11.png",
     "folder": "cute_cat",
     "path": "stickers/cute_cat/11.png",
-    "folderName": "Cute Cat"
+    "folderName": "Cute Cat",
+    "size": 677
   },
   {
-    "file_name": "12.png",
+    "fileName": "12.png",
     "folder": "cute_cat",
     "path": "stickers/cute_cat/12.png",
-    "folderName": "Cute Cat"
+    "folderName": "Cute Cat",
+    "size": 637
   },
   {
-    "file_name": "13.png",
+    "fileName": "13.png",
     "folder": "cute_cat",
     "path": "stickers/cute_cat/13.png",
-    "folderName": "Cute Cat"
+    "folderName": "Cute Cat",
+    "size": 671
   },
   {
-    "file_name": "14.png",
+    "fileName": "14.png",
     "folder": "cute_cat",
     "path": "stickers/cute_cat/14.png",
-    "folderName": "Cute Cat"
+    "folderName": "Cute Cat",
+    "size": 483
   },
   {
-    "file_name": "15.png",
+    "fileName": "15.png",
     "folder": "cute_cat",
     "path": "stickers/cute_cat/15.png",
-    "folderName": "Cute Cat"
+    "folderName": "Cute Cat",
+    "size": 346
   },
   {
-    "file_name": "16.png",
+    "fileName": "16.png",
     "folder": "cute_cat",
     "path": "stickers/cute_cat/16.png",
-    "folderName": "Cute Cat"
+    "folderName": "Cute Cat",
+    "size": 401
   },
   {
-    "file_name": "17.png",
+    "fileName": "17.png",
     "folder": "cute_cat",
     "path": "stickers/cute_cat/17.png",
-    "folderName": "Cute Cat"
+    "folderName": "Cute Cat",
+    "size": 524
   },
   {
-    "file_name": "18.png",
+    "fileName": "18.png",
     "folder": "cute_cat",
     "path": "stickers/cute_cat/18.png",
-    "folderName": "Cute Cat"
+    "folderName": "Cute Cat",
+    "size": 508
   },
   {
-    "file_name": "19.png",
+    "fileName": "19.png",
     "folder": "cute_cat",
     "path": "stickers/cute_cat/19.png",
-    "folderName": "Cute Cat"
+    "folderName": "Cute Cat",
+    "size": 558
   },
   {
-    "file_name": "2.png",
+    "fileName": "2.png",
     "folder": "cute_cat",
     "path": "stickers/cute_cat/2.png",
-    "folderName": "Cute Cat"
+    "folderName": "Cute Cat",
+    "size": 538
   },
   {
-    "file_name": "20.png",
+    "fileName": "20.png",
     "folder": "cute_cat",
     "path": "stickers/cute_cat/20.png",
-    "folderName": "Cute Cat"
+    "folderName": "Cute Cat",
+    "size": 401
   },
   {
-    "file_name": "3.png",
+    "fileName": "3.png",
     "folder": "cute_cat",
     "path": "stickers/cute_cat/3.png",
-    "folderName": "Cute Cat"
+    "folderName": "Cute Cat",
+    "size": 445
   },
   {
-    "file_name": "4.png",
+    "fileName": "4.png",
     "folder": "cute_cat",
     "path": "stickers/cute_cat/4.png",
-    "folderName": "Cute Cat"
+    "folderName": "Cute Cat",
+    "size": 600
   },
   {
-    "file_name": "5.png",
+    "fileName": "5.png",
     "folder": "cute_cat",
     "path": "stickers/cute_cat/5.png",
-    "folderName": "Cute Cat"
+    "folderName": "Cute Cat",
+    "size": 628
   },
   {
-    "file_name": "6.png",
+    "fileName": "6.png",
     "folder": "cute_cat",
     "path": "stickers/cute_cat/6.png",
-    "folderName": "Cute Cat"
+    "folderName": "Cute Cat",
+    "size": 335
   },
   {
-    "file_name": "7.png",
+    "fileName": "7.png",
     "folder": "cute_cat",
     "path": "stickers/cute_cat/7.png",
-    "folderName": "Cute Cat"
+    "folderName": "Cute Cat",
+    "size": 680
   },
   {
-    "file_name": "8.png",
+    "fileName": "8.png",
     "folder": "cute_cat",
     "path": "stickers/cute_cat/8.png",
-    "folderName": "Cute Cat"
+    "folderName": "Cute Cat",
+    "size": 457
   },
   {
-    "file_name": "9.png",
+    "fileName": "9.png",
     "folder": "cute_cat",
     "path": "stickers/cute_cat/9.png",
-    "folderName": "Cute Cat"
+    "folderName": "Cute Cat",
+    "size": 328
   },
   {
-    "file_name": "1.png",
+    "fileName": "1.png",
     "folder": "draw",
     "path": "stickers/draw/1.png",
-    "folderName": "Draw"
+    "folderName": "Draw",
+    "size": 337
   },
   {
-    "file_name": "10.png",
+    "fileName": "10.png",
     "folder": "draw",
     "path": "stickers/draw/10.png",
-    "folderName": "Draw"
+    "folderName": "Draw",
+    "size": 305
   },
   {
-    "file_name": "11.png",
+    "fileName": "11.png",
     "folder": "draw",
     "path": "stickers/draw/11.png",
-    "folderName": "Draw"
+    "folderName": "Draw",
+    "size": 514
   },
   {
-    "file_name": "12.png",
+    "fileName": "12.png",
     "folder": "draw",
     "path": "stickers/draw/12.png",
-    "folderName": "Draw"
+    "folderName": "Draw",
+    "size": 383
   },
   {
-    "file_name": "13.png",
+    "fileName": "13.png",
     "folder": "draw",
     "path": "stickers/draw/13.png",
-    "folderName": "Draw"
+    "folderName": "Draw",
+    "size": 364
   },
   {
-    "file_name": "14.png",
+    "fileName": "14.png",
     "folder": "draw",
     "path": "stickers/draw/14.png",
-    "folderName": "Draw"
+    "folderName": "Draw",
+    "size": 371
   },
   {
-    "file_name": "15.png",
+    "fileName": "15.png",
     "folder": "draw",
     "path": "stickers/draw/15.png",
-    "folderName": "Draw"
+    "folderName": "Draw",
+    "size": 393
   },
   {
-    "file_name": "16.png",
+    "fileName": "16.png",
     "folder": "draw",
     "path": "stickers/draw/16.png",
-    "folderName": "Draw"
+    "folderName": "Draw",
+    "size": 556
   },
   {
-    "file_name": "17.png",
+    "fileName": "17.png",
     "folder": "draw",
     "path": "stickers/draw/17.png",
-    "folderName": "Draw"
+    "folderName": "Draw",
+    "size": 421
   },
   {
-    "file_name": "18.png",
+    "fileName": "18.png",
     "folder": "draw",
     "path": "stickers/draw/18.png",
-    "folderName": "Draw"
+    "folderName": "Draw",
+    "size": 372
   },
   {
-    "file_name": "19.png",
+    "fileName": "19.png",
     "folder": "draw",
     "path": "stickers/draw/19.png",
-    "folderName": "Draw"
+    "folderName": "Draw",
+    "size": 444
   },
   {
-    "file_name": "2.png",
+    "fileName": "2.png",
     "folder": "draw",
     "path": "stickers/draw/2.png",
-    "folderName": "Draw"
+    "folderName": "Draw",
+    "size": 529
   },
   {
-    "file_name": "20.png",
+    "fileName": "20.png",
     "folder": "draw",
     "path": "stickers/draw/20.png",
-    "folderName": "Draw"
+    "folderName": "Draw",
+    "size": 309
   },
   {
-    "file_name": "3.png",
+    "fileName": "3.png",
     "folder": "draw",
     "path": "stickers/draw/3.png",
-    "folderName": "Draw"
+    "folderName": "Draw",
+    "size": 352
   },
   {
-    "file_name": "4.png",
+    "fileName": "4.png",
     "folder": "draw",
     "path": "stickers/draw/4.png",
-    "folderName": "Draw"
+    "folderName": "Draw",
+    "size": 383
   },
   {
-    "file_name": "5.png",
+    "fileName": "5.png",
     "folder": "draw",
     "path": "stickers/draw/5.png",
-    "folderName": "Draw"
+    "folderName": "Draw",
+    "size": 508
   },
   {
-    "file_name": "6.png",
+    "fileName": "6.png",
     "folder": "draw",
     "path": "stickers/draw/6.png",
-    "folderName": "Draw"
+    "folderName": "Draw",
+    "size": 583
   },
   {
-    "file_name": "7.png",
+    "fileName": "7.png",
     "folder": "draw",
     "path": "stickers/draw/7.png",
-    "folderName": "Draw"
+    "folderName": "Draw",
+    "size": 609
   },
   {
-    "file_name": "8.png",
+    "fileName": "8.png",
     "folder": "draw",
     "path": "stickers/draw/8.png",
-    "folderName": "Draw"
+    "folderName": "Draw",
+    "size": 494
   },
   {
-    "file_name": "9.png",
+    "fileName": "9.png",
     "folder": "draw",
     "path": "stickers/draw/9.png",
-    "folderName": "Draw"
+    "folderName": "Draw",
+    "size": 686
   },
   {
-    "file_name": "funny skull-01.png",
+    "fileName": "funny skull-01.png",
     "folder": "funny_skull",
     "path": "stickers/funny_skull/funny skull-01.png",
-    "folderName": "Funny Skull"
+    "folderName": "Funny Skull",
+    "size": 306
   },
   {
-    "file_name": "funny skull-02.png",
+    "fileName": "funny skull-02.png",
     "folder": "funny_skull",
     "path": "stickers/funny_skull/funny skull-02.png",
-    "folderName": "Funny Skull"
+    "folderName": "Funny Skull",
+    "size": 588
   },
   {
-    "file_name": "funny skull-03.png",
+    "fileName": "funny skull-03.png",
     "folder": "funny_skull",
     "path": "stickers/funny_skull/funny skull-03.png",
-    "folderName": "Funny Skull"
+    "folderName": "Funny Skull",
+    "size": 671
   },
   {
-    "file_name": "funny skull-04.png",
+    "fileName": "funny skull-04.png",
     "folder": "funny_skull",
     "path": "stickers/funny_skull/funny skull-04.png",
-    "folderName": "Funny Skull"
+    "folderName": "Funny Skull",
+    "size": 603
   },
   {
-    "file_name": "funny skull-05.png",
+    "fileName": "funny skull-05.png",
     "folder": "funny_skull",
     "path": "stickers/funny_skull/funny skull-05.png",
-    "folderName": "Funny Skull"
+    "folderName": "Funny Skull",
+    "size": 399
   },
   {
-    "file_name": "funny skull-06.png",
+    "fileName": "funny skull-06.png",
     "folder": "funny_skull",
     "path": "stickers/funny_skull/funny skull-06.png",
-    "folderName": "Funny Skull"
+    "folderName": "Funny Skull",
+    "size": 564
   },
   {
-    "file_name": "funny skull-07.png",
+    "fileName": "funny skull-07.png",
     "folder": "funny_skull",
     "path": "stickers/funny_skull/funny skull-07.png",
-    "folderName": "Funny Skull"
+    "folderName": "Funny Skull",
+    "size": 449
   },
   {
-    "file_name": "funny skull-08.png",
+    "fileName": "funny skull-08.png",
     "folder": "funny_skull",
     "path": "stickers/funny_skull/funny skull-08.png",
-    "folderName": "Funny Skull"
+    "folderName": "Funny Skull",
+    "size": 349
   },
   {
-    "file_name": "funny skull-09.png",
+    "fileName": "funny skull-09.png",
     "folder": "funny_skull",
     "path": "stickers/funny_skull/funny skull-09.png",
-    "folderName": "Funny Skull"
+    "folderName": "Funny Skull",
+    "size": 388
   },
   {
-    "file_name": "funny skull-10.png",
+    "fileName": "funny skull-10.png",
     "folder": "funny_skull",
     "path": "stickers/funny_skull/funny skull-10.png",
-    "folderName": "Funny Skull"
+    "folderName": "Funny Skull",
+    "size": 540
   },
   {
-    "file_name": "funny skull-11.png",
+    "fileName": "funny skull-11.png",
     "folder": "funny_skull",
     "path": "stickers/funny_skull/funny skull-11.png",
-    "folderName": "Funny Skull"
+    "folderName": "Funny Skull",
+    "size": 394
   },
   {
-    "file_name": "funny skull-12.png",
+    "fileName": "funny skull-12.png",
     "folder": "funny_skull",
     "path": "stickers/funny_skull/funny skull-12.png",
-    "folderName": "Funny Skull"
+    "folderName": "Funny Skull",
+    "size": 308
   },
   {
-    "file_name": "funny skull-13.png",
+    "fileName": "funny skull-13.png",
     "folder": "funny_skull",
     "path": "stickers/funny_skull/funny skull-13.png",
-    "folderName": "Funny Skull"
+    "folderName": "Funny Skull",
+    "size": 393
   },
   {
-    "file_name": "funny skull-14.png",
+    "fileName": "funny skull-14.png",
     "folder": "funny_skull",
     "path": "stickers/funny_skull/funny skull-14.png",
-    "folderName": "Funny Skull"
+    "folderName": "Funny Skull",
+    "size": 353
   },
   {
-    "file_name": "funny skull-15.png",
+    "fileName": "funny skull-15.png",
     "folder": "funny_skull",
     "path": "stickers/funny_skull/funny skull-15.png",
-    "folderName": "Funny Skull"
+    "folderName": "Funny Skull",
+    "size": 648
   },
   {
-    "file_name": "funny skull-16.png",
+    "fileName": "funny skull-16.png",
     "folder": "funny_skull",
     "path": "stickers/funny_skull/funny skull-16.png",
-    "folderName": "Funny Skull"
+    "folderName": "Funny Skull",
+    "size": 400
   },
   {
-    "file_name": "funny skull-17.png",
+    "fileName": "funny skull-17.png",
     "folder": "funny_skull",
     "path": "stickers/funny_skull/funny skull-17.png",
-    "folderName": "Funny Skull"
+    "folderName": "Funny Skull",
+    "size": 372
   },
   {
-    "file_name": "funny skull-18.png",
+    "fileName": "funny skull-18.png",
     "folder": "funny_skull",
     "path": "stickers/funny_skull/funny skull-18.png",
-    "folderName": "Funny Skull"
+    "folderName": "Funny Skull",
+    "size": 372
   },
   {
-    "file_name": "funny skull-19.png",
+    "fileName": "funny skull-19.png",
     "folder": "funny_skull",
     "path": "stickers/funny_skull/funny skull-19.png",
-    "folderName": "Funny Skull"
+    "folderName": "Funny Skull",
+    "size": 366
   },
   {
-    "file_name": "funny skull-20.png",
+    "fileName": "funny skull-20.png",
     "folder": "funny_skull",
     "path": "stickers/funny_skull/funny skull-20.png",
-    "folderName": "Funny Skull"
+    "folderName": "Funny Skull",
+    "size": 406
   },
   {
-    "file_name": "funny skull-21.png",
+    "fileName": "funny skull-21.png",
     "folder": "funny_skull",
     "path": "stickers/funny_skull/funny skull-21.png",
-    "folderName": "Funny Skull"
+    "folderName": "Funny Skull",
+    "size": 571
   },
   {
-    "file_name": "funny skull-22.png",
+    "fileName": "funny skull-22.png",
     "folder": "funny_skull",
     "path": "stickers/funny_skull/funny skull-22.png",
-    "folderName": "Funny Skull"
+    "folderName": "Funny Skull",
+    "size": 652
   },
   {
-    "file_name": "funny skull-23.png",
+    "fileName": "funny skull-23.png",
     "folder": "funny_skull",
     "path": "stickers/funny_skull/funny skull-23.png",
-    "folderName": "Funny Skull"
+    "folderName": "Funny Skull",
+    "size": 625
   },
   {
-    "file_name": "funny skull-24.png",
+    "fileName": "funny skull-24.png",
     "folder": "funny_skull",
     "path": "stickers/funny_skull/funny skull-24.png",
-    "folderName": "Funny Skull"
+    "folderName": "Funny Skull",
+    "size": 681
   },
   {
-    "file_name": "funny skull-25.png",
+    "fileName": "funny skull-25.png",
     "folder": "funny_skull",
     "path": "stickers/funny_skull/funny skull-25.png",
-    "folderName": "Funny Skull"
+    "folderName": "Funny Skull",
+    "size": 590
   },
   {
-    "file_name": "funny skull-26.png",
+    "fileName": "funny skull-26.png",
     "folder": "funny_skull",
     "path": "stickers/funny_skull/funny skull-26.png",
-    "folderName": "Funny Skull"
+    "folderName": "Funny Skull",
+    "size": 466
   },
   {
-    "file_name": "funny skull-27.png",
+    "fileName": "funny skull-27.png",
     "folder": "funny_skull",
     "path": "stickers/funny_skull/funny skull-27.png",
-    "folderName": "Funny Skull"
+    "folderName": "Funny Skull",
+    "size": 343
   },
   {
-    "file_name": "1.png",
+    "fileName": "1.png",
     "folder": "heart",
     "path": "stickers/heart/1.png",
-    "folderName": "Heart"
+    "folderName": "Heart",
+    "size": 311
   },
   {
-    "file_name": "10.png",
+    "fileName": "10.png",
     "folder": "heart",
     "path": "stickers/heart/10.png",
-    "folderName": "Heart"
+    "folderName": "Heart",
+    "size": 550
   },
   {
-    "file_name": "11.png",
+    "fileName": "11.png",
     "folder": "heart",
     "path": "stickers/heart/11.png",
-    "folderName": "Heart"
+    "folderName": "Heart",
+    "size": 380
   },
   {
-    "file_name": "12.png",
+    "fileName": "12.png",
     "folder": "heart",
     "path": "stickers/heart/12.png",
-    "folderName": "Heart"
+    "folderName": "Heart",
+    "size": 673
   },
   {
-    "file_name": "13.png",
+    "fileName": "13.png",
     "folder": "heart",
     "path": "stickers/heart/13.png",
-    "folderName": "Heart"
+    "folderName": "Heart",
+    "size": 316
   },
   {
-    "file_name": "14.png",
+    "fileName": "14.png",
     "folder": "heart",
     "path": "stickers/heart/14.png",
-    "folderName": "Heart"
+    "folderName": "Heart",
+    "size": 550
   },
   {
-    "file_name": "15.png",
+    "fileName": "15.png",
     "folder": "heart",
     "path": "stickers/heart/15.png",
-    "folderName": "Heart"
+    "folderName": "Heart",
+    "size": 515
   },
   {
-    "file_name": "16.png",
+    "fileName": "16.png",
     "folder": "heart",
     "path": "stickers/heart/16.png",
-    "folderName": "Heart"
+    "folderName": "Heart",
+    "size": 505
   },
   {
-    "file_name": "17.png",
+    "fileName": "17.png",
     "folder": "heart",
     "path": "stickers/heart/17.png",
-    "folderName": "Heart"
+    "folderName": "Heart",
+    "size": 596
   },
   {
-    "file_name": "18.png",
+    "fileName": "18.png",
     "folder": "heart",
     "path": "stickers/heart/18.png",
-    "folderName": "Heart"
+    "folderName": "Heart",
+    "size": 543
   },
   {
-    "file_name": "19.png",
+    "fileName": "19.png",
     "folder": "heart",
     "path": "stickers/heart/19.png",
-    "folderName": "Heart"
+    "folderName": "Heart",
+    "size": 520
   },
   {
-    "file_name": "2.png",
+    "fileName": "2.png",
     "folder": "heart",
     "path": "stickers/heart/2.png",
-    "folderName": "Heart"
+    "folderName": "Heart",
+    "size": 367
   },
   {
-    "file_name": "20.png",
+    "fileName": "20.png",
     "folder": "heart",
     "path": "stickers/heart/20.png",
-    "folderName": "Heart"
+    "folderName": "Heart",
+    "size": 501
   },
   {
-    "file_name": "3.png",
+    "fileName": "3.png",
     "folder": "heart",
     "path": "stickers/heart/3.png",
-    "folderName": "Heart"
+    "folderName": "Heart",
+    "size": 549
   },
   {
-    "file_name": "4.png",
+    "fileName": "4.png",
     "folder": "heart",
     "path": "stickers/heart/4.png",
-    "folderName": "Heart"
+    "folderName": "Heart",
+    "size": 512
   },
   {
-    "file_name": "5.png",
+    "fileName": "5.png",
     "folder": "heart",
     "path": "stickers/heart/5.png",
-    "folderName": "Heart"
+    "folderName": "Heart",
+    "size": 569
   },
   {
-    "file_name": "6.png",
+    "fileName": "6.png",
     "folder": "heart",
     "path": "stickers/heart/6.png",
-    "folderName": "Heart"
+    "folderName": "Heart",
+    "size": 610
   },
   {
-    "file_name": "7.png",
+    "fileName": "7.png",
     "folder": "heart",
     "path": "stickers/heart/7.png",
-    "folderName": "Heart"
+    "folderName": "Heart",
+    "size": 356
   },
   {
-    "file_name": "8.png",
+    "fileName": "8.png",
     "folder": "heart",
     "path": "stickers/heart/8.png",
-    "folderName": "Heart"
+    "folderName": "Heart",
+    "size": 538
   },
   {
-    "file_name": "9.png",
+    "fileName": "9.png",
     "folder": "heart",
     "path": "stickers/heart/9.png",
-    "folderName": "Heart"
+    "folderName": "Heart",
+    "size": 691
   },
   {
-    "file_name": "1.png",
+    "fileName": "1.png",
     "folder": "kawaii",
     "path": "stickers/kawaii/1.png",
-    "folderName": "Kawaii"
+    "folderName": "Kawaii",
+    "size": 390
   },
   {
-    "file_name": "10.png",
+    "fileName": "10.png",
     "folder": "kawaii",
     "path": "stickers/kawaii/10.png",
-    "folderName": "Kawaii"
+    "folderName": "Kawaii",
+    "size": 452
   },
   {
-    "file_name": "11.png",
+    "fileName": "11.png",
     "folder": "kawaii",
     "path": "stickers/kawaii/11.png",
-    "folderName": "Kawaii"
+    "folderName": "Kawaii",
+    "size": 349
   },
   {
-    "file_name": "12.png",
+    "fileName": "12.png",
     "folder": "kawaii",
     "path": "stickers/kawaii/12.png",
-    "folderName": "Kawaii"
+    "folderName": "Kawaii",
+    "size": 355
   },
   {
-    "file_name": "13.png",
+    "fileName": "13.png",
     "folder": "kawaii",
     "path": "stickers/kawaii/13.png",
-    "folderName": "Kawaii"
+    "folderName": "Kawaii",
+    "size": 641
   },
   {
-    "file_name": "14.png",
+    "fileName": "14.png",
     "folder": "kawaii",
     "path": "stickers/kawaii/14.png",
-    "folderName": "Kawaii"
+    "folderName": "Kawaii",
+    "size": 488
   },
   {
-    "file_name": "15.png",
+    "fileName": "15.png",
     "folder": "kawaii",
     "path": "stickers/kawaii/15.png",
-    "folderName": "Kawaii"
+    "folderName": "Kawaii",
+    "size": 490
   },
   {
-    "file_name": "16.png",
+    "fileName": "16.png",
     "folder": "kawaii",
     "path": "stickers/kawaii/16.png",
-    "folderName": "Kawaii"
+    "folderName": "Kawaii",
+    "size": 569
   },
   {
-    "file_name": "17.png",
+    "fileName": "17.png",
     "folder": "kawaii",
     "path": "stickers/kawaii/17.png",
-    "folderName": "Kawaii"
+    "folderName": "Kawaii",
+    "size": 559
   },
   {
-    "file_name": "18.png",
+    "fileName": "18.png",
     "folder": "kawaii",
     "path": "stickers/kawaii/18.png",
-    "folderName": "Kawaii"
+    "folderName": "Kawaii",
+    "size": 689
   },
   {
-    "file_name": "19.png",
+    "fileName": "19.png",
     "folder": "kawaii",
     "path": "stickers/kawaii/19.png",
-    "folderName": "Kawaii"
+    "folderName": "Kawaii",
+    "size": 411
   },
   {
-    "file_name": "2.png",
+    "fileName": "2.png",
     "folder": "kawaii",
     "path": "stickers/kawaii/2.png",
-    "folderName": "Kawaii"
+    "folderName": "Kawaii",
+    "size": 342
   },
   {
-    "file_name": "20.png",
+    "fileName": "20.png",
     "folder": "kawaii",
     "path": "stickers/kawaii/20.png",
-    "folderName": "Kawaii"
+    "folderName": "Kawaii",
+    "size": 670
   },
   {
-    "file_name": "3.png",
+    "fileName": "3.png",
     "folder": "kawaii",
     "path": "stickers/kawaii/3.png",
-    "folderName": "Kawaii"
+    "folderName": "Kawaii",
+    "size": 672
   },
   {
-    "file_name": "4.png",
+    "fileName": "4.png",
     "folder": "kawaii",
     "path": "stickers/kawaii/4.png",
-    "folderName": "Kawaii"
+    "folderName": "Kawaii",
+    "size": 332
   },
   {
-    "file_name": "5.png",
+    "fileName": "5.png",
     "folder": "kawaii",
     "path": "stickers/kawaii/5.png",
-    "folderName": "Kawaii"
+    "folderName": "Kawaii",
+    "size": 599
   },
   {
-    "file_name": "6.png",
+    "fileName": "6.png",
     "folder": "kawaii",
     "path": "stickers/kawaii/6.png",
-    "folderName": "Kawaii"
+    "folderName": "Kawaii",
+    "size": 402
   },
   {
-    "file_name": "7.png",
+    "fileName": "7.png",
     "folder": "kawaii",
     "path": "stickers/kawaii/7.png",
-    "folderName": "Kawaii"
+    "folderName": "Kawaii",
+    "size": 685
   },
   {
-    "file_name": "8.png",
+    "fileName": "8.png",
     "folder": "kawaii",
     "path": "stickers/kawaii/8.png",
-    "folderName": "Kawaii"
+    "folderName": "Kawaii",
+    "size": 525
   },
   {
-    "file_name": "9.png",
+    "fileName": "9.png",
     "folder": "kawaii",
     "path": "stickers/kawaii/9.png",
-    "folderName": "Kawaii"
+    "folderName": "Kawaii",
+    "size": 375
   },
   {
-    "file_name": "1.png",
+    "fileName": "1.png",
     "folder": "local",
     "path": "stickers/local/1.png",
-    "folderName": "Local"
+    "folderName": "Local",
+    "size": 698
   },
   {
-    "file_name": "10.png",
+    "fileName": "10.png",
     "folder": "local",
     "path": "stickers/local/10.png",
-    "folderName": "Local"
+    "folderName": "Local",
+    "size": 649
   },
   {
-    "file_name": "11.png",
+    "fileName": "11.png",
     "folder": "local",
     "path": "stickers/local/11.png",
-    "folderName": "Local"
+    "folderName": "Local",
+    "size": 689
   },
   {
-    "file_name": "12.png",
+    "fileName": "12.png",
     "folder": "local",
     "path": "stickers/local/12.png",
-    "folderName": "Local"
+    "folderName": "Local",
+    "size": 518
   },
   {
-    "file_name": "13.png",
+    "fileName": "13.png",
     "folder": "local",
     "path": "stickers/local/13.png",
-    "folderName": "Local"
+    "folderName": "Local",
+    "size": 626
   },
   {
-    "file_name": "14.png",
+    "fileName": "14.png",
     "folder": "local",
     "path": "stickers/local/14.png",
-    "folderName": "Local"
+    "folderName": "Local",
+    "size": 621
   },
   {
-    "file_name": "15.png",
+    "fileName": "15.png",
     "folder": "local",
     "path": "stickers/local/15.png",
-    "folderName": "Local"
+    "folderName": "Local",
+    "size": 623
   },
   {
-    "file_name": "16.png",
+    "fileName": "16.png",
     "folder": "local",
     "path": "stickers/local/16.png",
-    "folderName": "Local"
+    "folderName": "Local",
+    "size": 372
   },
   {
-    "file_name": "2.png",
+    "fileName": "2.png",
     "folder": "local",
     "path": "stickers/local/2.png",
-    "folderName": "Local"
+    "folderName": "Local",
+    "size": 395
   },
   {
-    "file_name": "3.png",
+    "fileName": "3.png",
     "folder": "local",
     "path": "stickers/local/3.png",
-    "folderName": "Local"
+    "folderName": "Local",
+    "size": 610
   },
   {
-    "file_name": "4.png",
+    "fileName": "4.png",
     "folder": "local",
     "path": "stickers/local/4.png",
-    "folderName": "Local"
+    "folderName": "Local",
+    "size": 437
   },
   {
-    "file_name": "5.png",
+    "fileName": "5.png",
     "folder": "local",
     "path": "stickers/local/5.png",
-    "folderName": "Local"
+    "folderName": "Local",
+    "size": 660
   },
   {
-    "file_name": "6.png",
+    "fileName": "6.png",
     "folder": "local",
     "path": "stickers/local/6.png",
-    "folderName": "Local"
+    "folderName": "Local",
+    "size": 364
   },
   {
-    "file_name": "7.png",
+    "fileName": "7.png",
     "folder": "local",
     "path": "stickers/local/7.png",
-    "folderName": "Local"
+    "folderName": "Local",
+    "size": 662
   },
   {
-    "file_name": "8.png",
+    "fileName": "8.png",
     "folder": "local",
     "path": "stickers/local/8.png",
-    "folderName": "Local"
+    "folderName": "Local",
+    "size": 478
   },
   {
-    "file_name": "9.png",
+    "fileName": "9.png",
     "folder": "local",
     "path": "stickers/local/9.png",
-    "folderName": "Local"
+    "folderName": "Local",
+    "size": 495
   },
   {
-    "file_name": "1.png",
+    "fileName": "1.png",
     "folder": "love",
     "path": "stickers/love/1.png",
-    "folderName": "Love"
+    "folderName": "Love",
+    "size": 644
   },
   {
-    "file_name": "10.png",
+    "fileName": "10.png",
     "folder": "love",
     "path": "stickers/love/10.png",
-    "folderName": "Love"
+    "folderName": "Love",
+    "size": 367
   },
   {
-    "file_name": "11.png",
+    "fileName": "11.png",
     "folder": "love",
     "path": "stickers/love/11.png",
-    "folderName": "Love"
+    "folderName": "Love",
+    "size": 369
   },
   {
-    "file_name": "12.png",
+    "fileName": "12.png",
     "folder": "love",
     "path": "stickers/love/12.png",
-    "folderName": "Love"
+    "folderName": "Love",
+    "size": 327
   },
   {
-    "file_name": "13.png",
+    "fileName": "13.png",
     "folder": "love",
     "path": "stickers/love/13.png",
-    "folderName": "Love"
+    "folderName": "Love",
+    "size": 370
   },
   {
-    "file_name": "14.png",
+    "fileName": "14.png",
     "folder": "love",
     "path": "stickers/love/14.png",
-    "folderName": "Love"
+    "folderName": "Love",
+    "size": 465
   },
   {
-    "file_name": "15.png",
+    "fileName": "15.png",
     "folder": "love",
     "path": "stickers/love/15.png",
-    "folderName": "Love"
+    "folderName": "Love",
+    "size": 538
   },
   {
-    "file_name": "16.png",
+    "fileName": "16.png",
     "folder": "love",
     "path": "stickers/love/16.png",
-    "folderName": "Love"
+    "folderName": "Love",
+    "size": 334
   },
   {
-    "file_name": "17.png",
+    "fileName": "17.png",
     "folder": "love",
     "path": "stickers/love/17.png",
-    "folderName": "Love"
+    "folderName": "Love",
+    "size": 330
   },
   {
-    "file_name": "18.png",
+    "fileName": "18.png",
     "folder": "love",
     "path": "stickers/love/18.png",
-    "folderName": "Love"
+    "folderName": "Love",
+    "size": 530
   },
   {
-    "file_name": "19.png",
+    "fileName": "19.png",
     "folder": "love",
     "path": "stickers/love/19.png",
-    "folderName": "Love"
+    "folderName": "Love",
+    "size": 489
   },
   {
-    "file_name": "2.png",
+    "fileName": "2.png",
     "folder": "love",
     "path": "stickers/love/2.png",
-    "folderName": "Love"
+    "folderName": "Love",
+    "size": 683
   },
   {
-    "file_name": "20.png",
+    "fileName": "20.png",
     "folder": "love",
     "path": "stickers/love/20.png",
-    "folderName": "Love"
+    "folderName": "Love",
+    "size": 418
   },
   {
-    "file_name": "3.png",
+    "fileName": "3.png",
     "folder": "love",
     "path": "stickers/love/3.png",
-    "folderName": "Love"
+    "folderName": "Love",
+    "size": 699
   },
   {
-    "file_name": "4.png",
+    "fileName": "4.png",
     "folder": "love",
     "path": "stickers/love/4.png",
-    "folderName": "Love"
+    "folderName": "Love",
+    "size": 608
   },
   {
-    "file_name": "5.png",
+    "fileName": "5.png",
     "folder": "love",
     "path": "stickers/love/5.png",
-    "folderName": "Love"
+    "folderName": "Love",
+    "size": 609
   },
   {
-    "file_name": "6.png",
+    "fileName": "6.png",
     "folder": "love",
     "path": "stickers/love/6.png",
-    "folderName": "Love"
+    "folderName": "Love",
+    "size": 513
   },
   {
-    "file_name": "7.png",
+    "fileName": "7.png",
     "folder": "love",
     "path": "stickers/love/7.png",
-    "folderName": "Love"
+    "folderName": "Love",
+    "size": 439
   },
   {
-    "file_name": "8.png",
+    "fileName": "8.png",
     "folder": "love",
     "path": "stickers/love/8.png",
-    "folderName": "Love"
+    "folderName": "Love",
+    "size": 383
   },
   {
-    "file_name": "9.png",
+    "fileName": "9.png",
     "folder": "love",
     "path": "stickers/love/9.png",
-    "folderName": "Love"
+    "folderName": "Love",
+    "size": 450
   },
   {
-    "file_name": "1.png",
+    "fileName": "1.png",
     "folder": "love_quotes",
     "path": "stickers/love_quotes/1.png",
-    "folderName": "Love Quotes"
+    "folderName": "Love Quotes",
+    "size": 453
   },
   {
-    "file_name": "10.png",
+    "fileName": "10.png",
     "folder": "love_quotes",
     "path": "stickers/love_quotes/10.png",
-    "folderName": "Love Quotes"
+    "folderName": "Love Quotes",
+    "size": 597
   },
   {
-    "file_name": "11.png",
+    "fileName": "11.png",
     "folder": "love_quotes",
     "path": "stickers/love_quotes/11.png",
-    "folderName": "Love Quotes"
+    "folderName": "Love Quotes",
+    "size": 631
   },
   {
-    "file_name": "12.png",
+    "fileName": "12.png",
     "folder": "love_quotes",
     "path": "stickers/love_quotes/12.png",
-    "folderName": "Love Quotes"
+    "folderName": "Love Quotes",
+    "size": 544
   },
   {
-    "file_name": "13.png",
+    "fileName": "13.png",
     "folder": "love_quotes",
     "path": "stickers/love_quotes/13.png",
-    "folderName": "Love Quotes"
+    "folderName": "Love Quotes",
+    "size": 440
   },
   {
-    "file_name": "15-2.png",
+    "fileName": "15-2.png",
     "folder": "love_quotes",
     "path": "stickers/love_quotes/15-2.png",
-    "folderName": "Love Quotes"
+    "folderName": "Love Quotes",
+    "size": 551
   },
   {
-    "file_name": "15.png",
+    "fileName": "15.png",
     "folder": "love_quotes",
     "path": "stickers/love_quotes/15.png",
-    "folderName": "Love Quotes"
+    "folderName": "Love Quotes",
+    "size": 486
   },
   {
-    "file_name": "16.png",
+    "fileName": "16.png",
     "folder": "love_quotes",
     "path": "stickers/love_quotes/16.png",
-    "folderName": "Love Quotes"
+    "folderName": "Love Quotes",
+    "size": 306
   },
   {
-    "file_name": "17.png",
+    "fileName": "17.png",
     "folder": "love_quotes",
     "path": "stickers/love_quotes/17.png",
-    "folderName": "Love Quotes"
+    "folderName": "Love Quotes",
+    "size": 504
   },
   {
-    "file_name": "18.png",
+    "fileName": "18.png",
     "folder": "love_quotes",
     "path": "stickers/love_quotes/18.png",
-    "folderName": "Love Quotes"
+    "folderName": "Love Quotes",
+    "size": 386
   },
   {
-    "file_name": "19.png",
+    "fileName": "19.png",
     "folder": "love_quotes",
     "path": "stickers/love_quotes/19.png",
-    "folderName": "Love Quotes"
+    "folderName": "Love Quotes",
+    "size": 352
   },
   {
-    "file_name": "2.png",
+    "fileName": "2.png",
     "folder": "love_quotes",
     "path": "stickers/love_quotes/2.png",
-    "folderName": "Love Quotes"
+    "folderName": "Love Quotes",
+    "size": 455
   },
   {
-    "file_name": "20.png",
+    "fileName": "20.png",
     "folder": "love_quotes",
     "path": "stickers/love_quotes/20.png",
-    "folderName": "Love Quotes"
+    "folderName": "Love Quotes",
+    "size": 519
   },
   {
-    "file_name": "21.png",
+    "fileName": "21.png",
     "folder": "love_quotes",
     "path": "stickers/love_quotes/21.png",
-    "folderName": "Love Quotes"
+    "folderName": "Love Quotes",
+    "size": 671
   },
   {
-    "file_name": "22.png",
+    "fileName": "22.png",
     "folder": "love_quotes",
     "path": "stickers/love_quotes/22.png",
-    "folderName": "Love Quotes"
+    "folderName": "Love Quotes",
+    "size": 309
   },
   {
-    "file_name": "23.png",
+    "fileName": "23.png",
     "folder": "love_quotes",
     "path": "stickers/love_quotes/23.png",
-    "folderName": "Love Quotes"
+    "folderName": "Love Quotes",
+    "size": 526
   },
   {
-    "file_name": "24.png",
+    "fileName": "24.png",
     "folder": "love_quotes",
     "path": "stickers/love_quotes/24.png",
-    "folderName": "Love Quotes"
+    "folderName": "Love Quotes",
+    "size": 657
   },
   {
-    "file_name": "25.png",
+    "fileName": "25.png",
     "folder": "love_quotes",
     "path": "stickers/love_quotes/25.png",
-    "folderName": "Love Quotes"
+    "folderName": "Love Quotes",
+    "size": 332
   },
   {
-    "file_name": "26.png",
+    "fileName": "26.png",
     "folder": "love_quotes",
     "path": "stickers/love_quotes/26.png",
-    "folderName": "Love Quotes"
+    "folderName": "Love Quotes",
+    "size": 475
   },
   {
-    "file_name": "27.png",
+    "fileName": "27.png",
     "folder": "love_quotes",
     "path": "stickers/love_quotes/27.png",
-    "folderName": "Love Quotes"
+    "folderName": "Love Quotes",
+    "size": 397
   },
   {
-    "file_name": "28.png",
+    "fileName": "28.png",
     "folder": "love_quotes",
     "path": "stickers/love_quotes/28.png",
-    "folderName": "Love Quotes"
+    "folderName": "Love Quotes",
+    "size": 680
   },
   {
-    "file_name": "29.png",
+    "fileName": "29.png",
     "folder": "love_quotes",
     "path": "stickers/love_quotes/29.png",
-    "folderName": "Love Quotes"
+    "folderName": "Love Quotes",
+    "size": 575
   },
   {
-    "file_name": "3.png",
+    "fileName": "3.png",
     "folder": "love_quotes",
     "path": "stickers/love_quotes/3.png",
-    "folderName": "Love Quotes"
+    "folderName": "Love Quotes",
+    "size": 675
   },
   {
-    "file_name": "30.png",
+    "fileName": "30.png",
     "folder": "love_quotes",
     "path": "stickers/love_quotes/30.png",
-    "folderName": "Love Quotes"
+    "folderName": "Love Quotes",
+    "size": 316
   },
   {
-    "file_name": "31.png",
+    "fileName": "31.png",
     "folder": "love_quotes",
     "path": "stickers/love_quotes/31.png",
-    "folderName": "Love Quotes"
+    "folderName": "Love Quotes",
+    "size": 662
   },
   {
-    "file_name": "32.png",
+    "fileName": "32.png",
     "folder": "love_quotes",
     "path": "stickers/love_quotes/32.png",
-    "folderName": "Love Quotes"
+    "folderName": "Love Quotes",
+    "size": 499
   },
   {
-    "file_name": "33.png",
+    "fileName": "33.png",
     "folder": "love_quotes",
     "path": "stickers/love_quotes/33.png",
-    "folderName": "Love Quotes"
+    "folderName": "Love Quotes",
+    "size": 317
   },
   {
-    "file_name": "34.png",
+    "fileName": "34.png",
     "folder": "love_quotes",
     "path": "stickers/love_quotes/34.png",
-    "folderName": "Love Quotes"
+    "folderName": "Love Quotes",
+    "size": 319
   },
   {
-    "file_name": "4.png",
+    "fileName": "4.png",
     "folder": "love_quotes",
     "path": "stickers/love_quotes/4.png",
-    "folderName": "Love Quotes"
+    "folderName": "Love Quotes",
+    "size": 693
   },
   {
-    "file_name": "5.png",
+    "fileName": "5.png",
     "folder": "love_quotes",
     "path": "stickers/love_quotes/5.png",
-    "folderName": "Love Quotes"
+    "folderName": "Love Quotes",
+    "size": 690
   },
   {
-    "file_name": "6.png",
+    "fileName": "6.png",
     "folder": "love_quotes",
     "path": "stickers/love_quotes/6.png",
-    "folderName": "Love Quotes"
+    "folderName": "Love Quotes",
+    "size": 645
   },
   {
-    "file_name": "7.png",
+    "fileName": "7.png",
     "folder": "love_quotes",
     "path": "stickers/love_quotes/7.png",
-    "folderName": "Love Quotes"
+    "folderName": "Love Quotes",
+    "size": 668
   },
   {
-    "file_name": "8.png",
+    "fileName": "8.png",
     "folder": "love_quotes",
     "path": "stickers/love_quotes/8.png",
-    "folderName": "Love Quotes"
+    "folderName": "Love Quotes",
+    "size": 691
   },
   {
-    "file_name": "9.png",
+    "fileName": "9.png",
     "folder": "love_quotes",
     "path": "stickers/love_quotes/9.png",
-    "folderName": "Love Quotes"
+    "folderName": "Love Quotes",
+    "size": 457
   },
   {
-    "file_name": "1.png",
+    "fileName": "1.png",
     "folder": "midnight_glow",
     "path": "stickers/midnight_glow/1.png",
-    "folderName": "Midnight Glow"
+    "folderName": "Midnight Glow",
+    "size": 499
   },
   {
-    "file_name": "10.png",
+    "fileName": "10.png",
     "folder": "midnight_glow",
     "path": "stickers/midnight_glow/10.png",
-    "folderName": "Midnight Glow"
+    "folderName": "Midnight Glow",
+    "size": 337
   },
   {
-    "file_name": "11.png",
+    "fileName": "11.png",
     "folder": "midnight_glow",
     "path": "stickers/midnight_glow/11.png",
-    "folderName": "Midnight Glow"
+    "folderName": "Midnight Glow",
+    "size": 612
   },
   {
-    "file_name": "12.png",
+    "fileName": "12.png",
     "folder": "midnight_glow",
     "path": "stickers/midnight_glow/12.png",
-    "folderName": "Midnight Glow"
+    "folderName": "Midnight Glow",
+    "size": 461
   },
   {
-    "file_name": "13.png",
+    "fileName": "13.png",
     "folder": "midnight_glow",
     "path": "stickers/midnight_glow/13.png",
-    "folderName": "Midnight Glow"
+    "folderName": "Midnight Glow",
+    "size": 652
   },
   {
-    "file_name": "15-2.png",
+    "fileName": "15-2.png",
     "folder": "midnight_glow",
     "path": "stickers/midnight_glow/15-2.png",
-    "folderName": "Midnight Glow"
+    "folderName": "Midnight Glow",
+    "size": 302
   },
   {
-    "file_name": "15.png",
+    "fileName": "15.png",
     "folder": "midnight_glow",
     "path": "stickers/midnight_glow/15.png",
-    "folderName": "Midnight Glow"
+    "folderName": "Midnight Glow",
+    "size": 542
   },
   {
-    "file_name": "16.png",
+    "fileName": "16.png",
     "folder": "midnight_glow",
     "path": "stickers/midnight_glow/16.png",
-    "folderName": "Midnight Glow"
+    "folderName": "Midnight Glow",
+    "size": 680
   },
   {
-    "file_name": "17.png",
+    "fileName": "17.png",
     "folder": "midnight_glow",
     "path": "stickers/midnight_glow/17.png",
-    "folderName": "Midnight Glow"
+    "folderName": "Midnight Glow",
+    "size": 570
   },
   {
-    "file_name": "18.png",
+    "fileName": "18.png",
     "folder": "midnight_glow",
     "path": "stickers/midnight_glow/18.png",
-    "folderName": "Midnight Glow"
+    "folderName": "Midnight Glow",
+    "size": 581
   },
   {
-    "file_name": "19.png",
+    "fileName": "19.png",
     "folder": "midnight_glow",
     "path": "stickers/midnight_glow/19.png",
-    "folderName": "Midnight Glow"
+    "folderName": "Midnight Glow",
+    "size": 605
   },
   {
-    "file_name": "2.png",
+    "fileName": "2.png",
     "folder": "midnight_glow",
     "path": "stickers/midnight_glow/2.png",
-    "folderName": "Midnight Glow"
+    "folderName": "Midnight Glow",
+    "size": 693
   },
   {
-    "file_name": "20.png",
+    "fileName": "20.png",
     "folder": "midnight_glow",
     "path": "stickers/midnight_glow/20.png",
-    "folderName": "Midnight Glow"
+    "folderName": "Midnight Glow",
+    "size": 494
   },
   {
-    "file_name": "21.png",
+    "fileName": "21.png",
     "folder": "midnight_glow",
     "path": "stickers/midnight_glow/21.png",
-    "folderName": "Midnight Glow"
+    "folderName": "Midnight Glow",
+    "size": 355
   },
   {
-    "file_name": "22.png",
+    "fileName": "22.png",
     "folder": "midnight_glow",
     "path": "stickers/midnight_glow/22.png",
-    "folderName": "Midnight Glow"
+    "folderName": "Midnight Glow",
+    "size": 324
   },
   {
-    "file_name": "23.png",
+    "fileName": "23.png",
     "folder": "midnight_glow",
     "path": "stickers/midnight_glow/23.png",
-    "folderName": "Midnight Glow"
+    "folderName": "Midnight Glow",
+    "size": 565
   },
   {
-    "file_name": "24.png",
+    "fileName": "24.png",
     "folder": "midnight_glow",
     "path": "stickers/midnight_glow/24.png",
-    "folderName": "Midnight Glow"
+    "folderName": "Midnight Glow",
+    "size": 598
   },
   {
-    "file_name": "25.png",
+    "fileName": "25.png",
     "folder": "midnight_glow",
     "path": "stickers/midnight_glow/25.png",
-    "folderName": "Midnight Glow"
+    "folderName": "Midnight Glow",
+    "size": 581
   },
   {
-    "file_name": "26.png",
+    "fileName": "26.png",
     "folder": "midnight_glow",
     "path": "stickers/midnight_glow/26.png",
-    "folderName": "Midnight Glow"
+    "folderName": "Midnight Glow",
+    "size": 506
   },
   {
-    "file_name": "27.png",
+    "fileName": "27.png",
     "folder": "midnight_glow",
     "path": "stickers/midnight_glow/27.png",
-    "folderName": "Midnight Glow"
+    "folderName": "Midnight Glow",
+    "size": 598
   },
   {
-    "file_name": "28.png",
+    "fileName": "28.png",
     "folder": "midnight_glow",
     "path": "stickers/midnight_glow/28.png",
-    "folderName": "Midnight Glow"
+    "folderName": "Midnight Glow",
+    "size": 454
   },
   {
-    "file_name": "29.png",
+    "fileName": "29.png",
     "folder": "midnight_glow",
     "path": "stickers/midnight_glow/29.png",
-    "folderName": "Midnight Glow"
+    "folderName": "Midnight Glow",
+    "size": 622
   },
   {
-    "file_name": "3.png",
+    "fileName": "3.png",
     "folder": "midnight_glow",
     "path": "stickers/midnight_glow/3.png",
-    "folderName": "Midnight Glow"
+    "folderName": "Midnight Glow",
+    "size": 576
   },
   {
-    "file_name": "30.png",
+    "fileName": "30.png",
     "folder": "midnight_glow",
     "path": "stickers/midnight_glow/30.png",
-    "folderName": "Midnight Glow"
+    "folderName": "Midnight Glow",
+    "size": 545
   },
   {
-    "file_name": "4.png",
+    "fileName": "4.png",
     "folder": "midnight_glow",
     "path": "stickers/midnight_glow/4.png",
-    "folderName": "Midnight Glow"
+    "folderName": "Midnight Glow",
+    "size": 529
   },
   {
-    "file_name": "5.png",
+    "fileName": "5.png",
     "folder": "midnight_glow",
     "path": "stickers/midnight_glow/5.png",
-    "folderName": "Midnight Glow"
+    "folderName": "Midnight Glow",
+    "size": 602
   },
   {
-    "file_name": "6.png",
+    "fileName": "6.png",
     "folder": "midnight_glow",
     "path": "stickers/midnight_glow/6.png",
-    "folderName": "Midnight Glow"
+    "folderName": "Midnight Glow",
+    "size": 400
   },
   {
-    "file_name": "7.png",
+    "fileName": "7.png",
     "folder": "midnight_glow",
     "path": "stickers/midnight_glow/7.png",
-    "folderName": "Midnight Glow"
+    "folderName": "Midnight Glow",
+    "size": 601
   },
   {
-    "file_name": "8.png",
+    "fileName": "8.png",
     "folder": "midnight_glow",
     "path": "stickers/midnight_glow/8.png",
-    "folderName": "Midnight Glow"
+    "folderName": "Midnight Glow",
+    "size": 465
   },
   {
-    "file_name": "9.png",
+    "fileName": "9.png",
     "folder": "midnight_glow",
     "path": "stickers/midnight_glow/9.png",
-    "folderName": "Midnight Glow"
+    "folderName": "Midnight Glow",
+    "size": 319
   },
   {
-    "file_name": "1.png",
+    "fileName": "1.png",
     "folder": "raining",
     "path": "stickers/raining/1.png",
-    "folderName": "Raining"
+    "folderName": "Raining",
+    "size": 350
   },
   {
-    "file_name": "10.png",
+    "fileName": "10.png",
     "folder": "raining",
     "path": "stickers/raining/10.png",
-    "folderName": "Raining"
+    "folderName": "Raining",
+    "size": 670
   },
   {
-    "file_name": "11.png",
+    "fileName": "11.png",
     "folder": "raining",
     "path": "stickers/raining/11.png",
-    "folderName": "Raining"
+    "folderName": "Raining",
+    "size": 412
   },
   {
-    "file_name": "12.png",
+    "fileName": "12.png",
     "folder": "raining",
     "path": "stickers/raining/12.png",
-    "folderName": "Raining"
+    "folderName": "Raining",
+    "size": 585
   },
   {
-    "file_name": "13.png",
+    "fileName": "13.png",
     "folder": "raining",
     "path": "stickers/raining/13.png",
-    "folderName": "Raining"
+    "folderName": "Raining",
+    "size": 334
   },
   {
-    "file_name": "14.png",
+    "fileName": "14.png",
     "folder": "raining",
     "path": "stickers/raining/14.png",
-    "folderName": "Raining"
+    "folderName": "Raining",
+    "size": 371
   },
   {
-    "file_name": "15.png",
+    "fileName": "15.png",
     "folder": "raining",
     "path": "stickers/raining/15.png",
-    "folderName": "Raining"
+    "folderName": "Raining",
+    "size": 492
   },
   {
-    "file_name": "16.png",
+    "fileName": "16.png",
     "folder": "raining",
     "path": "stickers/raining/16.png",
-    "folderName": "Raining"
+    "folderName": "Raining",
+    "size": 320
   },
   {
-    "file_name": "17.png",
+    "fileName": "17.png",
     "folder": "raining",
     "path": "stickers/raining/17.png",
-    "folderName": "Raining"
+    "folderName": "Raining",
+    "size": 350
   },
   {
-    "file_name": "18.png",
+    "fileName": "18.png",
     "folder": "raining",
     "path": "stickers/raining/18.png",
-    "folderName": "Raining"
+    "folderName": "Raining",
+    "size": 537
   },
   {
-    "file_name": "19.png",
+    "fileName": "19.png",
     "folder": "raining",
     "path": "stickers/raining/19.png",
-    "folderName": "Raining"
+    "folderName": "Raining",
+    "size": 536
   },
   {
-    "file_name": "2.png",
+    "fileName": "2.png",
     "folder": "raining",
     "path": "stickers/raining/2.png",
-    "folderName": "Raining"
+    "folderName": "Raining",
+    "size": 498
   },
   {
-    "file_name": "20.png",
+    "fileName": "20.png",
     "folder": "raining",
     "path": "stickers/raining/20.png",
-    "folderName": "Raining"
+    "folderName": "Raining",
+    "size": 469
   },
   {
-    "file_name": "3.png",
+    "fileName": "3.png",
     "folder": "raining",
     "path": "stickers/raining/3.png",
-    "folderName": "Raining"
+    "folderName": "Raining",
+    "size": 336
   },
   {
-    "file_name": "4.png",
+    "fileName": "4.png",
     "folder": "raining",
     "path": "stickers/raining/4.png",
-    "folderName": "Raining"
+    "folderName": "Raining",
+    "size": 496
   },
   {
-    "file_name": "5.png",
+    "fileName": "5.png",
     "folder": "raining",
     "path": "stickers/raining/5.png",
-    "folderName": "Raining"
+    "folderName": "Raining",
+    "size": 423
   },
   {
-    "file_name": "6.png",
+    "fileName": "6.png",
     "folder": "raining",
     "path": "stickers/raining/6.png",
-    "folderName": "Raining"
+    "folderName": "Raining",
+    "size": 525
   },
   {
-    "file_name": "7.png",
+    "fileName": "7.png",
     "folder": "raining",
     "path": "stickers/raining/7.png",
-    "folderName": "Raining"
+    "folderName": "Raining",
+    "size": 554
   },
   {
-    "file_name": "8.png",
+    "fileName": "8.png",
     "folder": "raining",
     "path": "stickers/raining/8.png",
-    "folderName": "Raining"
+    "folderName": "Raining",
+    "size": 496
   },
   {
-    "file_name": "9.png",
+    "fileName": "9.png",
     "folder": "raining",
     "path": "stickers/raining/9.png",
-    "folderName": "Raining"
+    "folderName": "Raining",
+    "size": 572
   },
   {
-    "file_name": "social media icons-01.png",
+    "fileName": "social media icons-01.png",
     "folder": "social_media_icons",
     "path": "stickers/social_media_icons/social media icons-01.png",
-    "folderName": "Social Media Icons"
+    "folderName": "Social Media Icons",
+    "size": 517
   },
   {
-    "file_name": "social media icons-02.png",
+    "fileName": "social media icons-02.png",
     "folder": "social_media_icons",
     "path": "stickers/social_media_icons/social media icons-02.png",
-    "folderName": "Social Media Icons"
+    "folderName": "Social Media Icons",
+    "size": 509
   },
   {
-    "file_name": "social media icons-03.png",
+    "fileName": "social media icons-03.png",
     "folder": "social_media_icons",
     "path": "stickers/social_media_icons/social media icons-03.png",
-    "folderName": "Social Media Icons"
+    "folderName": "Social Media Icons",
+    "size": 310
   },
   {
-    "file_name": "social media icons-04.png",
+    "fileName": "social media icons-04.png",
     "folder": "social_media_icons",
     "path": "stickers/social_media_icons/social media icons-04.png",
-    "folderName": "Social Media Icons"
+    "folderName": "Social Media Icons",
+    "size": 447
   },
   {
-    "file_name": "social media icons-05.png",
+    "fileName": "social media icons-05.png",
     "folder": "social_media_icons",
     "path": "stickers/social_media_icons/social media icons-05.png",
-    "folderName": "Social Media Icons"
+    "folderName": "Social Media Icons",
+    "size": 353
   },
   {
-    "file_name": "social media icons-06.png",
+    "fileName": "social media icons-06.png",
     "folder": "social_media_icons",
     "path": "stickers/social_media_icons/social media icons-06.png",
-    "folderName": "Social Media Icons"
+    "folderName": "Social Media Icons",
+    "size": 468
   },
   {
-    "file_name": "social media icons-07.png",
+    "fileName": "social media icons-07.png",
     "folder": "social_media_icons",
     "path": "stickers/social_media_icons/social media icons-07.png",
-    "folderName": "Social Media Icons"
+    "folderName": "Social Media Icons",
+    "size": 395
   },
   {
-    "file_name": "social media icons-08.png",
+    "fileName": "social media icons-08.png",
     "folder": "social_media_icons",
     "path": "stickers/social_media_icons/social media icons-08.png",
-    "folderName": "Social Media Icons"
+    "folderName": "Social Media Icons",
+    "size": 395
   },
   {
-    "file_name": "social media icons-09.png",
+    "fileName": "social media icons-09.png",
     "folder": "social_media_icons",
     "path": "stickers/social_media_icons/social media icons-09.png",
-    "folderName": "Social Media Icons"
+    "folderName": "Social Media Icons",
+    "size": 506
   },
   {
-    "file_name": "social media icons-10.png",
+    "fileName": "social media icons-10.png",
     "folder": "social_media_icons",
     "path": "stickers/social_media_icons/social media icons-10.png",
-    "folderName": "Social Media Icons"
+    "folderName": "Social Media Icons",
+    "size": 310
   },
   {
-    "file_name": "social media icons-11.png",
+    "fileName": "social media icons-11.png",
     "folder": "social_media_icons",
     "path": "stickers/social_media_icons/social media icons-11.png",
-    "folderName": "Social Media Icons"
+    "folderName": "Social Media Icons",
+    "size": 311
   },
   {
-    "file_name": "social media icons-12.png",
+    "fileName": "social media icons-12.png",
     "folder": "social_media_icons",
     "path": "stickers/social_media_icons/social media icons-12.png",
-    "folderName": "Social Media Icons"
+    "folderName": "Social Media Icons",
+    "size": 639
   },
   {
-    "file_name": "social media icons-13.png",
+    "fileName": "social media icons-13.png",
     "folder": "social_media_icons",
     "path": "stickers/social_media_icons/social media icons-13.png",
-    "folderName": "Social Media Icons"
+    "folderName": "Social Media Icons",
+    "size": 485
   },
   {
-    "file_name": "social media icons-14.png",
+    "fileName": "social media icons-14.png",
     "folder": "social_media_icons",
     "path": "stickers/social_media_icons/social media icons-14.png",
-    "folderName": "Social Media Icons"
+    "folderName": "Social Media Icons",
+    "size": 451
   },
   {
-    "file_name": "social media icons-15.png",
+    "fileName": "social media icons-15.png",
     "folder": "social_media_icons",
     "path": "stickers/social_media_icons/social media icons-15.png",
-    "folderName": "Social Media Icons"
+    "folderName": "Social Media Icons",
+    "size": 338
   },
   {
-    "file_name": "social media icons-16.png",
+    "fileName": "social media icons-16.png",
     "folder": "social_media_icons",
     "path": "stickers/social_media_icons/social media icons-16.png",
-    "folderName": "Social Media Icons"
+    "folderName": "Social Media Icons",
+    "size": 382
   },
   {
-    "file_name": "social media icons-17.png",
+    "fileName": "social media icons-17.png",
     "folder": "social_media_icons",
     "path": "stickers/social_media_icons/social media icons-17.png",
-    "folderName": "Social Media Icons"
+    "folderName": "Social Media Icons",
+    "size": 349
   },
   {
-    "file_name": "social media icons-18.png",
+    "fileName": "social media icons-18.png",
     "folder": "social_media_icons",
     "path": "stickers/social_media_icons/social media icons-18.png",
-    "folderName": "Social Media Icons"
+    "folderName": "Social Media Icons",
+    "size": 679
   },
   {
-    "file_name": "social media icons-19.png",
+    "fileName": "social media icons-19.png",
     "folder": "social_media_icons",
     "path": "stickers/social_media_icons/social media icons-19.png",
-    "folderName": "Social Media Icons"
+    "folderName": "Social Media Icons",
+    "size": 325
   },
   {
-    "file_name": "social media icons-20.png",
+    "fileName": "social media icons-20.png",
     "folder": "social_media_icons",
     "path": "stickers/social_media_icons/social media icons-20.png",
-    "folderName": "Social Media Icons"
+    "folderName": "Social Media Icons",
+    "size": 680
   },
   {
-    "file_name": "social media icons-21.png",
+    "fileName": "social media icons-21.png",
     "folder": "social_media_icons",
     "path": "stickers/social_media_icons/social media icons-21.png",
-    "folderName": "Social Media Icons"
+    "folderName": "Social Media Icons",
+    "size": 338
   },
   {
-    "file_name": "social media icons-22.png",
+    "fileName": "social media icons-22.png",
     "folder": "social_media_icons",
     "path": "stickers/social_media_icons/social media icons-22.png",
-    "folderName": "Social Media Icons"
+    "folderName": "Social Media Icons",
+    "size": 551
   },
   {
-    "file_name": "social media icons-23.png",
+    "fileName": "social media icons-23.png",
     "folder": "social_media_icons",
     "path": "stickers/social_media_icons/social media icons-23.png",
-    "folderName": "Social Media Icons"
+    "folderName": "Social Media Icons",
+    "size": 570
   },
   {
-    "file_name": "social media icons-24.png",
+    "fileName": "social media icons-24.png",
     "folder": "social_media_icons",
     "path": "stickers/social_media_icons/social media icons-24.png",
-    "folderName": "Social Media Icons"
+    "folderName": "Social Media Icons",
+    "size": 573
   },
   {
-    "file_name": "social media icons-25.png",
+    "fileName": "social media icons-25.png",
     "folder": "social_media_icons",
     "path": "stickers/social_media_icons/social media icons-25.png",
-    "folderName": "Social Media Icons"
+    "folderName": "Social Media Icons",
+    "size": 670
   },
   {
-    "file_name": "social media icons-26.png",
+    "fileName": "social media icons-26.png",
     "folder": "social_media_icons",
     "path": "stickers/social_media_icons/social media icons-26.png",
-    "folderName": "Social Media Icons"
+    "folderName": "Social Media Icons",
+    "size": 466
   },
   {
-    "file_name": "social media icons-27.png",
+    "fileName": "social media icons-27.png",
     "folder": "social_media_icons",
     "path": "stickers/social_media_icons/social media icons-27.png",
-    "folderName": "Social Media Icons"
+    "folderName": "Social Media Icons",
+    "size": 625
   },
   {
-    "file_name": "social media icons-28.png",
+    "fileName": "social media icons-28.png",
     "folder": "social_media_icons",
     "path": "stickers/social_media_icons/social media icons-28.png",
-    "folderName": "Social Media Icons"
+    "folderName": "Social Media Icons",
+    "size": 523
   },
   {
-    "file_name": "social media icons-29.png",
+    "fileName": "social media icons-29.png",
     "folder": "social_media_icons",
     "path": "stickers/social_media_icons/social media icons-29.png",
-    "folderName": "Social Media Icons"
+    "folderName": "Social Media Icons",
+    "size": 524
   },
   {
-    "file_name": "social media icons-30.png",
+    "fileName": "social media icons-30.png",
     "folder": "social_media_icons",
     "path": "stickers/social_media_icons/social media icons-30.png",
-    "folderName": "Social Media Icons"
+    "folderName": "Social Media Icons",
+    "size": 558
   },
   {
-    "file_name": "social media icons-31.png",
+    "fileName": "social media icons-31.png",
     "folder": "social_media_icons",
     "path": "stickers/social_media_icons/social media icons-31.png",
-    "folderName": "Social Media Icons"
+    "folderName": "Social Media Icons",
+    "size": 318
   },
   {
-    "file_name": "social media icons-32.png",
+    "fileName": "social media icons-32.png",
     "folder": "social_media_icons",
     "path": "stickers/social_media_icons/social media icons-32.png",
-    "folderName": "Social Media Icons"
+    "folderName": "Social Media Icons",
+    "size": 524
   },
   {
-    "file_name": "social media icons-33.png",
+    "fileName": "social media icons-33.png",
     "folder": "social_media_icons",
     "path": "stickers/social_media_icons/social media icons-33.png",
-    "folderName": "Social Media Icons"
+    "folderName": "Social Media Icons",
+    "size": 502
   },
   {
-    "file_name": "social media icons-34.png",
+    "fileName": "social media icons-34.png",
     "folder": "social_media_icons",
     "path": "stickers/social_media_icons/social media icons-34.png",
-    "folderName": "Social Media Icons"
+    "folderName": "Social Media Icons",
+    "size": 635
   },
   {
-    "file_name": "social media icons-35.png",
+    "fileName": "social media icons-35.png",
     "folder": "social_media_icons",
     "path": "stickers/social_media_icons/social media icons-35.png",
-    "folderName": "Social Media Icons"
+    "folderName": "Social Media Icons",
+    "size": 466
   },
   {
-    "file_name": "social media icons-36.png",
+    "fileName": "social media icons-36.png",
     "folder": "social_media_icons",
     "path": "stickers/social_media_icons/social media icons-36.png",
-    "folderName": "Social Media Icons"
+    "folderName": "Social Media Icons",
+    "size": 356
   },
   {
-    "file_name": "1.png",
+    "fileName": "1.png",
     "folder": "summer_sun",
     "path": "stickers/summer_sun/1.png",
-    "folderName": "Summer Sun"
+    "folderName": "Summer Sun",
+    "size": 408
   },
   {
-    "file_name": "10.png",
+    "fileName": "10.png",
     "folder": "summer_sun",
     "path": "stickers/summer_sun/10.png",
-    "folderName": "Summer Sun"
+    "folderName": "Summer Sun",
+    "size": 333
   },
   {
-    "file_name": "11.png",
+    "fileName": "11.png",
     "folder": "summer_sun",
     "path": "stickers/summer_sun/11.png",
-    "folderName": "Summer Sun"
+    "folderName": "Summer Sun",
+    "size": 512
   },
   {
-    "file_name": "12.png",
+    "fileName": "12.png",
     "folder": "summer_sun",
     "path": "stickers/summer_sun/12.png",
-    "folderName": "Summer Sun"
+    "folderName": "Summer Sun",
+    "size": 638
   },
   {
-    "file_name": "13.png",
+    "fileName": "13.png",
     "folder": "summer_sun",
     "path": "stickers/summer_sun/13.png",
-    "folderName": "Summer Sun"
+    "folderName": "Summer Sun",
+    "size": 379
   },
   {
-    "file_name": "14.png",
+    "fileName": "14.png",
     "folder": "summer_sun",
     "path": "stickers/summer_sun/14.png",
-    "folderName": "Summer Sun"
+    "folderName": "Summer Sun",
+    "size": 503
   },
   {
-    "file_name": "15.png",
+    "fileName": "15.png",
     "folder": "summer_sun",
     "path": "stickers/summer_sun/15.png",
-    "folderName": "Summer Sun"
+    "folderName": "Summer Sun",
+    "size": 513
   },
   {
-    "file_name": "16.png",
+    "fileName": "16.png",
     "folder": "summer_sun",
     "path": "stickers/summer_sun/16.png",
-    "folderName": "Summer Sun"
+    "folderName": "Summer Sun",
+    "size": 420
   },
   {
-    "file_name": "17.png",
+    "fileName": "17.png",
     "folder": "summer_sun",
     "path": "stickers/summer_sun/17.png",
-    "folderName": "Summer Sun"
+    "folderName": "Summer Sun",
+    "size": 381
   },
   {
-    "file_name": "18.png",
+    "fileName": "18.png",
     "folder": "summer_sun",
     "path": "stickers/summer_sun/18.png",
-    "folderName": "Summer Sun"
+    "folderName": "Summer Sun",
+    "size": 578
   },
   {
-    "file_name": "19.png",
+    "fileName": "19.png",
     "folder": "summer_sun",
     "path": "stickers/summer_sun/19.png",
-    "folderName": "Summer Sun"
+    "folderName": "Summer Sun",
+    "size": 480
   },
   {
-    "file_name": "2.png",
+    "fileName": "2.png",
     "folder": "summer_sun",
     "path": "stickers/summer_sun/2.png",
-    "folderName": "Summer Sun"
+    "folderName": "Summer Sun",
+    "size": 418
   },
   {
-    "file_name": "20.png",
+    "fileName": "20.png",
     "folder": "summer_sun",
     "path": "stickers/summer_sun/20.png",
-    "folderName": "Summer Sun"
+    "folderName": "Summer Sun",
+    "size": 323
   },
   {
-    "file_name": "3.png",
+    "fileName": "3.png",
     "folder": "summer_sun",
     "path": "stickers/summer_sun/3.png",
-    "folderName": "Summer Sun"
+    "folderName": "Summer Sun",
+    "size": 676
   },
   {
-    "file_name": "4.png",
+    "fileName": "4.png",
     "folder": "summer_sun",
     "path": "stickers/summer_sun/4.png",
-    "folderName": "Summer Sun"
+    "folderName": "Summer Sun",
+    "size": 365
   },
   {
-    "file_name": "5.png",
+    "fileName": "5.png",
     "folder": "summer_sun",
     "path": "stickers/summer_sun/5.png",
-    "folderName": "Summer Sun"
+    "folderName": "Summer Sun",
+    "size": 482
   },
   {
-    "file_name": "6.png",
+    "fileName": "6.png",
     "folder": "summer_sun",
     "path": "stickers/summer_sun/6.png",
-    "folderName": "Summer Sun"
+    "folderName": "Summer Sun",
+    "size": 562
   },
   {
-    "file_name": "7.png",
+    "fileName": "7.png",
     "folder": "summer_sun",
     "path": "stickers/summer_sun/7.png",
-    "folderName": "Summer Sun"
+    "folderName": "Summer Sun",
+    "size": 303
   },
   {
-    "file_name": "8.png",
+    "fileName": "8.png",
     "folder": "summer_sun",
     "path": "stickers/summer_sun/8.png",
-    "folderName": "Summer Sun"
+    "folderName": "Summer Sun",
+    "size": 366
   },
   {
-    "file_name": "9.png",
+    "fileName": "9.png",
     "folder": "summer_sun",
     "path": "stickers/summer_sun/9.png",
-    "folderName": "Summer Sun"
+    "folderName": "Summer Sun",
+    "size": 394
   },
   {
-    "file_name": "1.png",
+    "fileName": "1.png",
     "folder": "thug_life",
     "path": "stickers/thug_life/1.png",
-    "folderName": "Thug Life"
+    "folderName": "Thug Life",
+    "size": 502
   },
   {
-    "file_name": "10.png",
+    "fileName": "10.png",
     "folder": "thug_life",
     "path": "stickers/thug_life/10.png",
-    "folderName": "Thug Life"
+    "folderName": "Thug Life",
+    "size": 351
   },
   {
-    "file_name": "11.png",
+    "fileName": "11.png",
     "folder": "thug_life",
     "path": "stickers/thug_life/11.png",
-    "folderName": "Thug Life"
+    "folderName": "Thug Life",
+    "size": 450
   },
   {
-    "file_name": "12.png",
+    "fileName": "12.png",
     "folder": "thug_life",
     "path": "stickers/thug_life/12.png",
-    "folderName": "Thug Life"
+    "folderName": "Thug Life",
+    "size": 367
   },
   {
-    "file_name": "13.png",
+    "fileName": "13.png",
     "folder": "thug_life",
     "path": "stickers/thug_life/13.png",
-    "folderName": "Thug Life"
+    "folderName": "Thug Life",
+    "size": 501
   },
   {
-    "file_name": "14.png",
+    "fileName": "14.png",
     "folder": "thug_life",
     "path": "stickers/thug_life/14.png",
-    "folderName": "Thug Life"
+    "folderName": "Thug Life",
+    "size": 554
   },
   {
-    "file_name": "15.png",
+    "fileName": "15.png",
     "folder": "thug_life",
     "path": "stickers/thug_life/15.png",
-    "folderName": "Thug Life"
+    "folderName": "Thug Life",
+    "size": 457
   },
   {
-    "file_name": "16.png",
+    "fileName": "16.png",
     "folder": "thug_life",
     "path": "stickers/thug_life/16.png",
-    "folderName": "Thug Life"
+    "folderName": "Thug Life",
+    "size": 501
   },
   {
-    "file_name": "17.png",
+    "fileName": "17.png",
     "folder": "thug_life",
     "path": "stickers/thug_life/17.png",
-    "folderName": "Thug Life"
+    "folderName": "Thug Life",
+    "size": 327
   },
   {
-    "file_name": "18.png",
+    "fileName": "18.png",
     "folder": "thug_life",
     "path": "stickers/thug_life/18.png",
-    "folderName": "Thug Life"
+    "folderName": "Thug Life",
+    "size": 576
   },
   {
-    "file_name": "19.png",
+    "fileName": "19.png",
     "folder": "thug_life",
     "path": "stickers/thug_life/19.png",
-    "folderName": "Thug Life"
+    "folderName": "Thug Life",
+    "size": 572
   },
   {
-    "file_name": "2.png",
+    "fileName": "2.png",
     "folder": "thug_life",
     "path": "stickers/thug_life/2.png",
-    "folderName": "Thug Life"
+    "folderName": "Thug Life",
+    "size": 668
   },
   {
-    "file_name": "20.png",
+    "fileName": "20.png",
     "folder": "thug_life",
     "path": "stickers/thug_life/20.png",
-    "folderName": "Thug Life"
+    "folderName": "Thug Life",
+    "size": 318
   },
   {
-    "file_name": "3.png",
+    "fileName": "3.png",
     "folder": "thug_life",
     "path": "stickers/thug_life/3.png",
-    "folderName": "Thug Life"
+    "folderName": "Thug Life",
+    "size": 621
   },
   {
-    "file_name": "4.png",
+    "fileName": "4.png",
     "folder": "thug_life",
     "path": "stickers/thug_life/4.png",
-    "folderName": "Thug Life"
+    "folderName": "Thug Life",
+    "size": 382
   },
   {
-    "file_name": "5.png",
+    "fileName": "5.png",
     "folder": "thug_life",
     "path": "stickers/thug_life/5.png",
-    "folderName": "Thug Life"
+    "folderName": "Thug Life",
+    "size": 322
   },
   {
-    "file_name": "6.png",
+    "fileName": "6.png",
     "folder": "thug_life",
     "path": "stickers/thug_life/6.png",
-    "folderName": "Thug Life"
+    "folderName": "Thug Life",
+    "size": 470
   },
   {
-    "file_name": "7.png",
+    "fileName": "7.png",
     "folder": "thug_life",
     "path": "stickers/thug_life/7.png",
-    "folderName": "Thug Life"
+    "folderName": "Thug Life",
+    "size": 430
   },
   {
-    "file_name": "8.png",
+    "fileName": "8.png",
     "folder": "thug_life",
     "path": "stickers/thug_life/8.png",
-    "folderName": "Thug Life"
+    "folderName": "Thug Life",
+    "size": 504
   },
   {
-    "file_name": "9.png",
+    "fileName": "9.png",
     "folder": "thug_life",
     "path": "stickers/thug_life/9.png",
-    "folderName": "Thug Life"
+    "folderName": "Thug Life",
+    "size": 564
   }
 ]
